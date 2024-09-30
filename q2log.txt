@@ -1,0 +1,3354 @@
+commit 644c6b21ecef560082d05a105d568b61f23b2f06
+Author: hushujiang <108606573+hushujiang@users.noreply.github.com>
+Date:   Thu Sep 26 00:00:06 2024 +0800
+
+    Update test.yml
+
+commit f3aeda327c14ece9acb517df55df876c308e2ede
+Author: hushujiang <108606573+hushujiang@users.noreply.github.com>
+Date:   Wed Sep 25 23:52:09 2024 +0800
+
+    Update LivePlayActivity.java
+
+commit 2d109f1ccff4fe18beaa4da190f150c210aa0441
+Author: hushujiang <108606573+hushujiang@users.noreply.github.com>
+Date:   Wed Sep 25 11:56:03 2024 +0800
+
+    Add files via upload
+
+commit 899d352a6b4f6797cbd18859821ca9d6cb7bcc60
+Author: hushujiang <108606573+hushujiang@users.noreply.github.com>
+Date:   Wed Sep 25 04:18:30 2024 +0800
+
+    Update test.yml
+
+commit 1c6ce1fdfe831c5e8fe5ce0d0022485f458332de
+Author: hushujiang <108606573+hushujiang@users.noreply.github.com>
+Date:   Wed Sep 25 04:18:03 2024 +0800
+
+    Update VodController.java
+
+commit b06d421fd99b4dcb15aa83870956504a8666d3de
+Author: hushujiang <108606573+hushujiang@users.noreply.github.com>
+Date:   Wed Sep 25 04:15:42 2024 +0800
+
+    Update ApiConfig.java
+
+commit a2bb30789061ce447c49fe8da34b6aa0011782f5
+Author: 21561 <215613905@qq.com>
+Date:   Tue Sep 24 23:04:43 2024 +0800
+
+    修正
+
+commit 8b63bf8958d16626ca28e1695eecfa8de22e7628
+Author: 21561 <215613905@qq.com>
+Date:   Sat Sep 2 01:14:20 2023 +0800
+
+    修正一些bug;优化图片加载;(可能是最后一版对4.4以下的支持)
+
+commit 2c7ca1917cbeef7100fa1e4e5966b558ce973242
+Author: 21561 <215613905@qq.com>
+Date:   Fri Sep 1 23:46:00 2023 +0800
+
+    Revert "Js (#1)"
+    
+    This reverts commit 86893e4f2a4c084c67d506b2e0ef88822ddd8da8.
+
+commit 14fab9c6f1619e986f3d2bc5c7860b8fbb50deb2
+Author: 21561 <215613905@qq.com>
+Date:   Fri Sep 1 23:44:24 2023 +0800
+
+    Revert "Update build.gradle"
+    
+    This reverts commit 2ac956396c937c58d5e26e29e2345800deaddb3f.
+
+commit 6cbf876c73ba7d6142c16a4b580bfc9753334cd1
+Merge: 16a3217 2ac9563
+Author: q215613905 <215613905@qq.com>
+Date:   Wed Aug 30 13:58:14 2023 +0800
+
+    Merge pull request #111 from watson1982/main
+    
+    update quickjs merge by waston
+
+commit 2ac956396c937c58d5e26e29e2345800deaddb3f
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Wed Aug 30 05:44:14 2023 +0800
+
+    Update build.gradle
+
+commit 86893e4f2a4c084c67d506b2e0ef88822ddd8da8
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Tue Aug 29 09:45:09 2023 +0800
+
+    Js (#1)
+
+commit 16a3217af8ba57a05c6d7230216319b750413f6a
+Author: 于俊 <215613905@qq.com>
+Date:   Wed Aug 23 17:58:24 2023 +0800
+
+    ijk内置字幕有中文取中文没中文取第一个;解决内置字幕不消失的问题;修磁力不完全解析的问题
+
+commit 20481a36eca99bdd7c6fc9b5d43f257def5c266e
+Author: 于俊 <215613905@qq.com>
+Date:   Wed Aug 23 14:01:51 2023 +0800
+
+    解决合并打包异常
+
+commit c0ef8aa46fa8062b87fe8d9eca91c510fa0b22fe
+Merge: 6b6d288 428a196
+Author: q215613905 <215613905@qq.com>
+Date:   Wed Aug 23 13:36:45 2023 +0800
+
+    Merge pull request #107 from zhixc/dev
+    
+    补充修复json聚合并发轮询引起的闪退bug   merge by zhixc
+
+commit 6b6d288d85a5eba60948f6af19b46b1b0117a759
+Merge: 4d21342 94fdb84
+Author: q215613905 <215613905@qq.com>
+Date:   Wed Aug 23 13:36:13 2023 +0800
+
+    Merge pull request #106 from 670637080/main-2
+    
+    merge by 670637080
+
+commit 4d2134239af4594e1865dd274e3ee56bb4e6073c
+Merge: 7eebb87 6687096
+Author: q215613905 <215613905@qq.com>
+Date:   Wed Aug 23 13:35:31 2023 +0800
+
+    Merge pull request #105 from 670637080/main-3
+    
+    Update PlayFragment.java
+
+commit 428a19604cb889ff1bd3032c28f60b649380aec5
+Author: zhixc <93297256+zhixc@users.noreply.github.com>
+Date:   Wed Aug 23 05:24:47 2023 +0000
+
+    补充修复json聚合并发轮询引起的闪退bug
+
+commit 668709686c69d89d317b8affeaa30fdd52bd7729
+Author: 670637080 <110383438+670637080@users.noreply.github.com>
+Date:   Wed Aug 23 09:47:36 2023 +0800
+
+    Update PlayFragment.java
+
+commit 94fdb84dd73e79ce87ca3e202168d06590afce74
+Author: 670637080 <110383438+670637080@users.noreply.github.com>
+Date:   Wed Aug 23 09:47:32 2023 +0800
+
+    Update PlayActivity.java
+
+commit 7eebb87ca4835ed4ebc6f80c85a3fe87f277e253
+Merge: 9000c5f 6750427
+Author: q215613905 <215613905@qq.com>
+Date:   Tue Aug 22 11:19:39 2023 +0800
+
+    Merge pull request #102 from watson1982/main
+    
+    merge by watson
+
+commit 9000c5f967b8cf99c92c2edafcd697b854710a83
+Merge: 6b9f0be dd2db1b
+Author: q215613905 <215613905@qq.com>
+Date:   Tue Aug 22 11:16:04 2023 +0800
+
+    Merge pull request #101 from zhixc/dev
+    
+    merge By zhixc
+
+commit 67504278e7c727837fcecd646c53df622259cb9c
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 21:43:00 2023 +0800
+
+    icon_unlock.xml
+
+commit 746864c1e4e8336ffa42f9754737f8884b616394
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 21:41:25 2023 +0800
+
+    icon_lock.xml
+
+commit 617a8220724c9049a00f94e3ef04748a6a1b6266
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 21:01:30 2023 +0800
+
+    UserFragment.java
+
+commit 583678b2193357d9b2c36bfb324a65b6f45619de
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 20:58:27 2023 +0800
+
+    VodController.java
+
+commit 0189e8e93e70ab95e25090ef47811d4b30e794db
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 20:50:39 2023 +0800
+
+    Update HomeActivity.java
+
+commit a7a5c468861da3c09f865371611bd72ed4ff481f
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 20:49:31 2023 +0800
+
+    HomeActivity.java
+
+commit c5fd9ce7ece04548819a0e9fe7ef13a67633b3e8
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 20:42:29 2023 +0800
+
+    ScreenUtils.java
+
+commit 0027338ef9fc0ea95cb36397886bddbbc403af95
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 20:34:56 2023 +0800
+
+    VodController.java
+
+commit 0b1acc62a22bcac5d66d41482cb2da0fae9d55ef
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 20:16:33 2023 +0800
+
+    UserFragment.java
+
+commit 5b7e3029f004230a58a9e134c4fff66687e5b708
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 20:02:55 2023 +0800
+
+    Update colors.xml
+
+commit c6c14992adc91b75fd4ade8e9303629bf770c759
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 19:43:14 2023 +0800
+
+    Update dialog_confirm.xml
+
+commit d4e034f945e59a17c095f2e3bdeb6c7aab906923
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 19:37:58 2023 +0800
+
+    Update button_dialog_vod.xml
+
+commit 61c486cd4aab74662d1124eec6bfbaf22aaa8346
+Merge: 231af14 6b9f0be
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 19:26:44 2023 +0800
+
+    Merge branch 'q215613905:main' into main
+
+commit 231af14965b875acc23123cd2d5eb4bec7cc7410
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 19:26:06 2023 +0800
+
+    UserFragment.java
+
+commit 5e6212444171f401ccc1af3282606b819569cb12
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 19:24:04 2023 +0800
+
+    UserFragment+check del mode
+
+commit 6b9f0beb22396661e176880509ce085f9ae09b88
+Author: 21561 <215613905@qq.com>
+Date:   Mon Aug 21 19:05:15 2023 +0800
+
+    紧急修正部分dash视频闪退
+
+commit e379fda0cbc7f6fa0c84aaa619c69695f0fc593d
+Merge: 4bcd1b2 f8d07a9
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 18:51:50 2023 +0800
+
+    Merge branch 'q215613905:main' into main
+
+commit 4bcd1b2d52003e0daf992ddf00326e355a3858b4
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 18:51:00 2023 +0800
+
+    HomeActivity+del mode
+
+commit 835b6820df8660bcbcf8f984384b2ca0204436a9
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 18:45:05 2023 +0800
+
+    Update colors.xml
+
+commit eb910dedae635483d504b72224adbe3f24ab6d19
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 18:43:50 2023 +0800
+
+    shape_user_delete.xml
+
+commit 11203b0bf85e63a0f36263e2d10353705211dd3b
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 18:42:28 2023 +0800
+
+    item_user_hot_vod
+
+commit acc4b8ec970d83f815d2d614358404949353b4ba
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 18:39:33 2023 +0800
+
+    item_grid.xml
+
+commit 4b5c5dd2c6167d544ff934afa3b59d749a6ec7f1
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 18:36:03 2023 +0800
+
+    HomeHotVodAdapter
+
+commit d09e4595a6f42efe89ed814a3a203ad5cc3290ba
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 18:30:54 2023 +0800
+
+    HistoryAdapter
+
+commit 722bad7f03e4a6c5beb47c21e6b9f517f4753ba1
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 18:20:11 2023 +0800
+
+    dialog_confirm.xml
+
+commit 691f17863efc3acd4a0e2a2707bd355f41eecd31
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 18:13:17 2023 +0800
+
+    Update colors.xml
+
+commit 31d46f5e4b90521022a052bac785ff3ef7aaf763
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 18:10:44 2023 +0800
+
+    dialog_confirm.xml
+
+commit e611418c141eaf014394a15e21c714f698b6d907
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 18:09:27 2023 +0800
+
+    Update activity_history.xml
+
+commit 1604ccbb3bdac6ba20b0daeb469287c114468ea1
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 18:06:43 2023 +0800
+
+    Update activity_collect.xml
+
+commit 6496025d9d0925e03c16de11f98bdb73245c9731
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 18:02:25 2023 +0800
+
+    icon_clear.xml
+
+commit cd089bf639a8bcfc02040fa967d61c81c94dc0d7
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 17:59:41 2023 +0800
+
+    button_dialog_vod.xml
+
+commit 8ff3d96641b31579d0eb0edc4d85204dfd1ca8ed
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 17:56:12 2023 +0800
+
+    Update HawkConfig.java
+
+commit 6c06a4d67b42456cbcf67543310e3f58bd9b071e
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 17:53:11 2023 +0800
+
+    ConfirmClearDialog.java
+
+commit 203e9c1944c6992cf25052796ac9a3052cd0e8e7
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 17:50:54 2023 +0800
+
+    HistoryActivity+del all
+
+commit b2a10d8a7e83aada6f1b5f2da2f29dcd13703667
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 17:30:19 2023 +0800
+
+    CollectActivity+del all
+
+commit ac67c213c607cd1fd90e7ffd351a435b61622647
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 17:09:27 2023 +0800
+
+    Update VodRecordDao.java+del all
+
+commit 59ded042050078a0a8ed6599d33845b48c36806d
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 17:07:32 2023 +0800
+
+    VodCollectDao.java+del all
+
+commit a131e7a111c1b64c2b736db03bcd790f488914cc
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 17:03:19 2023 +0800
+
+    RoomDataManger.java+del all
+
+commit f8d07a9d6cb26e4fdf69dd154ab02cbac8c95785
+Author: 21561 <215613905@qq.com>
+Date:   Mon Aug 21 17:01:08 2023 +0800
+
+    T4 ext兼容本地json文件;                                           修正蜂蜜bili闪退;                                            exo兼容dash;                                                   聚搜模式逻辑调整;\n修正字幕加载bug;修正上一版返回bug
+
+commit 2381fa099ccb0e18ffbf5475de292982d2aab5a0
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 15:05:40 2023 +0800
+
+    Update player_vod_control_view.xml
+
+commit 589c651c29627b2a68b444458322c1d19ec96971
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 14:50:35 2023 +0800
+
+    icon_lock.xml
+
+commit 59f6785988357c93e1f42fbc196c44613e5ebe87
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 14:46:14 2023 +0800
+
+    VodController+lock
+
+commit 452457f25d3d8cf99f4564ef89442ab9f6f0d5c6
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 14:09:24 2023 +0800
+
+    AndroidMediaPlayer+netspeed
+
+commit b0482f8aaeae38649d95533df413acbb406510bc
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 14:05:25 2023 +0800
+
+    define netspeed
+
+commit a2ec375c4e1461d6351fe6b6d1e7422799dff8d9
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 21 13:53:44 2023 +0800
+
+    exo+netspeed
+
+commit dd2db1b17ff3e8b4d3d6ea2a1c3a451da860e506
+Author: zhixc <93297256+zhixc@users.noreply.github.com>
+Date:   Sat Aug 19 05:26:05 2023 +0000
+
+    修复部分在线字幕加载闪退的bug
+
+commit d2972fc7124d9d2a77101a0e8185ed8e6622f9b4
+Author: zhixc <93297256+zhixc@users.noreply.github.com>
+Date:   Fri Aug 18 14:22:53 2023 +0000
+
+    修复历史记录页面删除记录速度过快出现的索引越界异常
+
+commit 0702c11fe7fa680bed26d50648f3d60a3e20ca27
+Author: zhixc <93297256+zhixc@users.noreply.github.com>
+Date:   Fri Aug 18 11:59:42 2023 +0000
+
+    修复ed2k 和 magnet 磁力链接剧集反复切换可能会引起 playUrl 为null的异常
+
+commit ab7d7d4e4889bad25db5113fb756b33495cb735f
+Author: 于俊 <215613905@qq.com>
+Date:   Fri Aug 18 17:15:21 2023 +0800
+
+    ;
+
+commit a17b24cd27a177205499c8cd4279efd56e65fd1d
+Author: 于俊 <215613905@qq.com>
+Date:   Fri Aug 18 16:45:44 2023 +0800
+
+    再次修正部分图片不加载问题;兼容msg(toast消息);兼容subs字幕(只取第1个);
+
+commit 41d59c355dde1e4e5a1124577311c3e64949f2d2
+Merge: 289e960 2b5166d
+Author: q215613905 <215613905@qq.com>
+Date:   Fri Aug 18 16:27:06 2023 +0800
+
+    Merge pull request #100 from watson1982/main
+    
+    push://地址转推送(by waston & by idcard)
+
+commit 2b5166d91a88d63ff11920993d38cda0346e2001
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Thu Aug 17 21:45:44 2023 +0800
+
+    SourceViewModel.java+secondary page push
+
+commit eaa3ddc9dda105ead9ec527df891b4ac5d7b7407
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Thu Aug 17 16:27:25 2023 +0800
+
+    DetailActivity.java+history
+
+commit c2561a10ab89993003ac5ec915e90ae0a034994a
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Thu Aug 17 15:04:38 2023 +0800
+
+    SourceViewModel.java+push
+
+commit 39293e07022d9e064c15a933ee321af6560c889a
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Thu Aug 17 15:03:16 2023 +0800
+
+    DetailActivity.java+push
+
+commit bcc47f1e8cc768f14bbb6d0e3f8ac846625ee034
+Author: watson1982 <112817572+watson1982@users.noreply.github.com>
+Date:   Mon Aug 14 15:14:50 2023 +0800
+
+    get-push
+
+commit 289e960e817c00198e9e4e0a289081021d28c804
+Author: 21561 <215613905@qq.com>
+Date:   Mon Aug 14 12:52:29 2023 +0800
+
+    T4支持ext配置;当没有站点推荐时默认加载豆瓣热播推荐;
+
+commit d97ed6f5b615c63445dad0da60e0f6ac48555a47
+Author: 21561 <215613905@qq.com>
+Date:   Sat Aug 12 00:16:24 2023 +0800
+
+    修分类封面/文件夹切换bug;修主页配置加载时间过长不能操作的bug;添加dns;修磁力推送解析bug
+
+commit f0d155e573c9c18bb490a026361aac91d4a4f05a
+Author: 21561 <215613905@qq.com>
+Date:   Sat Aug 5 21:22:04 2023 +0800
+
+    更新影魔ff4;完善一次提交
+
+commit 2f044d8dee6cc86e25b0d9b5b7e75fe13ea4ed2e
+Author: 于俊 <215613905@qq.com>
+Date:   Sat Aug 5 14:04:21 2023 +0800
+
+    修闪退bug;修磁力bug;修图片bug
+
+commit 3e6c42200a94a08217bdb8ee3774a87bc8b3ea06
+Author: 21561 <215613905@qq.com>
+Date:   Tue Aug 1 20:53:53 2023 +0800
+
+    修正部分图片不显示的问题;
+
+commit fdc44e2ce8c2dbcd7d4286c2cc13f38a11d29a40
+Author: 21561 <215613905@qq.com>
+Date:   Tue Jul 25 23:13:12 2023 +0800
+
+    直播列表加载rtp协议;修正一处T4 bug;分类列表可从文件夹和封面形式自由切换
+
+commit 719776017ea687ef1770d1fc1b59e859598523bd
+Author: 21561 <215613905@qq.com>
+Date:   Fri Jul 21 21:59:30 2023 +0800
+
+    修荐片播放bug;ijk配置优化
+
+commit 4f919c502469b9897cc72d0d2c69f40c9c94d149
+Author: 于俊 <215613905@qq.com>
+Date:   Thu Jul 20 17:57:41 2023 +0800
+
+    支持荐片播放;支持普通ftp视频播放;支持电驴ed2k播放;修正退出播放时未停止磁力下载的bug
+
+commit 5775c0e7308abfa243a53f9d0a50f31fd3a5cfb9
+Author: 21561 <215613905@qq.com>
+Date:   Sun Jul 16 20:22:05 2023 +0800
+
+    图片加载支持@Headers
+
+commit 73f8328b798f617d9659c80caed88dba9ac649d2
+Author: 于俊 <215613905@qq.com>
+Date:   Sat Jul 15 10:45:19 2023 +0800
+
+    配置加载优化;直播右上角bug修正;去掉始终m3u8优先排序;修正部分源filters筛选加载bug
+
+commit 7a0cfd6b7553318300ab441d692d17c9f82a10b4
+Author: 于俊 <215613905@qq.com>
+Date:   Wed Jul 12 17:59:35 2023 +0800
+
+    修bug
+
+commit dbc413be56b1a19b4cce5f30758dd983b3768785
+Author: 于俊 <215613905@qq.com>
+Date:   Thu Jun 1 17:55:41 2023 +0800
+
+    更新ijk解码库;还原集数分组;缩短直播无响应时自动换源时间
+
+commit a5208f92c31398889ad223fb3d6228b93df3f48f
+Merge: 3988b4e 42dbef5
+Author: q215613905 <215613905@qq.com>
+Date:   Thu Jun 1 09:40:27 2023 +0800
+
+    Merge pull request #85 from power721/dev
+    
+    支持VLC播放器以及bug修复
+
+commit 42dbef5e2ed4cdcc3588b011afe550d8bce5ae56
+Author: Harold <power0721@gmail.com>
+Date:   Sat May 27 17:52:17 2023 +0800
+
+    支持影视接口规则
+
+commit c9b1364e1c74d685003b6aab746d5ad947758c87
+Author: Harold <power0721@gmail.com>
+Date:   Sat May 27 16:12:27 2023 +0800
+
+    支持影视接口规则
+
+commit 984ad7ce3b66fd40b185caba54f2c1269cd1e284
+Author: Harold <power0721@gmail.com>
+Date:   Sun May 21 16:27:32 2023 +0800
+
+    自动关闭远程搜索对话框
+    设置搜索关键词
+
+commit 6525b1820bb98e4763b0e466e2263d7ebed56996
+Author: Harold <power0721@gmail.com>
+Date:   Wed Jan 18 19:42:43 2023 +0800
+
+    支持VLC播放器
+
+commit 505aa3b832d487a05c967f982fcd89603480a832
+Author: Harold <power0721@gmail.com>
+Date:   Tue Nov 29 19:42:48 2022 +0800
+
+    修复外挂字幕闪退
+
+commit e64962d7bbd7c273b0dad0bd3d62568fd28c7438
+Author: Harold <power0721@gmail.com>
+Date:   Tue Nov 29 18:55:26 2022 +0800
+
+    修复重播：重置进度条
+
+commit 3988b4e75b5c036cbecbe03bb2b9358f2f93bd0e
+Author: 于俊 <215613905@qq.com>
+Date:   Thu Mar 2 09:24:03 2023 +0800
+
+    修bug;
+
+commit 5d14a137c09aecb11d406a73eb776101689b088c
+Author: 于俊 <215613905@qq.com>
+Date:   Wed Mar 1 16:23:01 2023 +0800
+
+    解决部分bug;改善用户体验
+
+commit 74ef7855b38bbe87b95af45345acacce809f11bd
+Author: okjackcaptain <378702538@qq.com>
+Date:   Sun Dec 18 12:26:01 2022 +0800
+
+    - 首页历史记录、站点推荐选中时最左侧样式遮挡问题修复 (by okjack)
+    - 播放底栏自动隐藏相关的bug (by okjack)
+    - 播放底栏下一集按钮往左按，焦点是片头设定按钮 (by okjack)
+
+commit 2a34859cbf4673afaaa95e5733be6a5e2417d2f3
+Author: okjackcaptain <378702538@qq.com>
+Date:   Sat Dec 3 15:19:22 2022 +0800
+
+    - 修复开启IJK缓存后播放一段时间自动下一集的bug (by okjack)
+
+commit c777f89f3929333b0ea8c7eb57fcf250b0ad1372
+Author: okjackcaptain <378702538@qq.com>
+Date:   Sat Dec 3 12:36:34 2022 +0800
+
+    - 设置新增IJK缓存播放开关，默认关闭 (by okjack)
+    - 设置IJK单个缓存限制60M (by okjack)
+
+commit 837de7ce5def874a64fc142e90a921c2db843ae4
+Author: okjackcaptain <378702538@qq.com>
+Date:   Sat Dec 3 10:37:29 2022 +0800
+
+    - 修复TV清空缓存闪退bug (by okjack)
+
+commit daebf40aa96dbf48eaf18651e3d4a29ad8811c0a
+Author: okjackcaptain <378702538@qq.com>
+Date:   Fri Dec 2 17:34:26 2022 +0800
+
+    - App启动时清空播放产生的缓存 (by okjack)
+
+commit f3b8e3e07469e39099d961eadc3ea890a029ef78
+Author: okjackcaptain <378702538@qq.com>
+Date:   Fri Dec 2 16:28:01 2022 +0800
+
+    - 限制IJK单个播放文件缓存最大容量 (by okjack)
+    - 设置中清除缓存选项，包括磁力 (by okjack)
+
+commit b54626d994f7a7f17e018ddba10ea70b557d3995
+Author: okjackcaptain <378702538@qq.com>
+Date:   Fri Dec 2 13:46:06 2022 +0800
+
+    - IJK缓存相关
+
+commit 9efbe2d46eb8c155dbb618c28b746c73b336ecd8
+Author: okjackcaptain <378702538@qq.com>
+Date:   Fri Dec 2 13:26:19 2022 +0800
+
+    - IJK播放器,mp3,mkv,avi等边缓存边播放（公测功能，有bug请反馈） (by okjack)
+    - 设置新增清空IJK缓存 (by okjack)
+    - 指定搜索源动态多行显示 (by okjack)
+
+commit de1f2d77594cb7522258bda945fa5e4635b7afdc
+Author: okjackcaptain <378702538@qq.com>
+Date:   Wed Nov 30 10:36:03 2022 +0800
+
+    - drpy2完善 (by okjack)
+
+commit 5d2eb675c423ae24e99e8a6723725253de4d2f58
+Author: okjackcaptain <378702538@qq.com>
+Date:   Tue Nov 29 15:20:16 2022 +0800
+
+    - drpy请求默认超时时间5s (by okjack)
+
+commit 710b84e407684502646f62c1b27dc05ef09388ef
+Author: okjackcaptain <378702538@qq.com>
+Date:   Tue Nov 29 13:23:36 2022 +0800
+
+    - 直播网速显示问题修复，默认网速显示关闭 (by okjack)
+    - drpy图片头适配 (by okjack)
+    - 搜索结果过滤逻辑更改 (by okjack)
+    - drpy相关优化 (by okjack)
+
+commit 3739c3b477126c8069cfa0d8d458bad2b367aa26
+Author: okjackcaptain <378702538@qq.com>
+Date:   Tue Nov 29 10:20:24 2022 +0800
+
+    - drpy搜索结果点击闪退bug修复 (by okjack)
+
+commit 62a3f125779927da241b42d9bb0982f4ac56f8d5
+Author: okjackcaptain <378702538@qq.com>
+Date:   Mon Nov 28 19:10:08 2022 +0800
+
+    - drpy2支持完善 (by okjack)
+    - js请求内容编码bug (by okjack)
+
+commit 2cd49d9d3d4e3f44fdfa38ada6c27f4cba6326c1
+Author: okjackcaptain <378702538@qq.com>
+Date:   Mon Nov 28 16:51:41 2022 +0800
+
+    - drpy搜索bug修复 (by okjack)
+    - js0加入筛选字段f (by okjack)
+
+commit b5e1daf2183a7446eab544925a6cf61a1a3f4e9f
+Author: okjackcaptain <378702538@qq.com>
+Date:   Mon Nov 28 14:53:04 2022 +0800
+
+    - js相关bug修复 (by okjack)
+    - 预览窗口全屏返回后的焦点顺序问题 (by okjack)
+
+commit 31f940523f7a67b42c970f588abbe0bd27b42d6e
+Author: okjackcaptain <378702538@qq.com>
+Date:   Mon Nov 28 13:47:09 2022 +0800
+
+    - js相关bug修复 (by okjack)
+    - drpy js模块引入支持相对路径 (by okjack)
+
+commit 0eb8e5768455754bbd7a06a63c5159c84b4bbf9f
+Author: okjackcaptain <378702538@qq.com>
+Date:   Mon Nov 28 10:05:46 2022 +0800
+
+    - 引入quickjs-android (by okjack)
+    - 优化JS相关 (by okjack)
+    - 支持drpy2 (by okjack)
+
+commit afc80be3aaed2d69f024f3847c2216a8ecf815be
+Author: 于俊 <215613905@qq.com>
+Date:   Sat Nov 19 13:26:11 2022 +0800
+
+    详情样式修正
+
+commit e729d144a22f9a7b9be7e8986a9348be2e9e663e
+Author: 于俊 <215613905@qq.com>
+Date:   Sat Nov 19 10:18:09 2022 +0800
+
+    直播微调;嗅探词微调;下拉选择框微调
+
+commit 2d5b4c8ee6aaf859e2a9de0abf211b6f24ff82bc
+Merge: e550335 029d786
+Author: Roinlong <32796060+Roinlong@users.noreply.github.com>
+Date:   Thu Nov 17 23:10:25 2022 +0800
+
+    Merge pull request #75 from power721/feature/filter-unselect
+    
+    filter取消选中与bug修复
+
+commit 029d7869f8003e94de6a9a72f560b33fc2a72cd3
+Author: Harold <power0721@gmail.com>
+Date:   Thu Nov 17 11:04:45 2022 +0800
+
+    修复filter图标显示
+
+commit a95dc90f3d029056b9418bde28e888d59ad9404d
+Author: Harold <power0721@gmail.com>
+Date:   Thu Nov 17 10:27:54 2022 +0800
+
+    API传递filter参数
+
+commit c0e6c8fd23699133fb5272e42b8e61746fa27180
+Author: Harold <power0721@gmail.com>
+Date:   Wed Nov 16 19:01:11 2022 +0800
+
+    修复filter key错误
+
+commit 75b664bd8c4bb905bfb6266dea9f3698274b185e
+Author: Harold <power0721@gmail.com>
+Date:   Tue Nov 15 12:36:03 2022 +0800
+
+    修复filter闪退
+    filter取消选中
+
+commit e55033595a51237cced5bd7ad5f768fe93c2feac
+Author: 于俊 <215613905@qq.com>
+Date:   Tue Nov 15 11:07:45 2022 +0800
+
+    支持jar图床(img+开头)
+
+commit 746d2a665ef8614431a20eb9a324b05d3fd53322
+Merge: 3da3ebe 5bec478
+Author: Roinlong <32796060+Roinlong@users.noreply.github.com>
+Date:   Mon Nov 14 22:55:27 2022 +0800
+
+    Merge pull request #73 from power721/feature/filter-icon-color
+    
+    选中filter后图标变色
+
+commit 5bec4783468306fd2f1ba5b9a335f7b454e84c5d
+Author: Harold <power0721@gmail.com>
+Date:   Mon Nov 14 22:06:55 2022 +0800
+
+    修复预览窗口字幕大小
+
+commit b002eda0b8c6214eeae6f2e69791c65c5da85f5a
+Author: Harold <power0721@gmail.com>
+Date:   Mon Nov 14 20:48:31 2022 +0800
+
+    选中filter后图标变色
+
+commit 3da3ebec20cb6afbdd8cd7c1429b60b6d589e79d
+Author: 21561 <215613905@qq.com>
+Date:   Mon Nov 14 17:36:34 2022 +0800
+
+    修正集数分组倒叙问题;修正集数分组偶发性滚动不到位的问题
+
+commit ecb3f6d532a9d3bf579a413f3e5120a469c57866
+Merge: 9ca35bf 6e57c88
+Author: Roinlong <32796060+Roinlong@users.noreply.github.com>
+Date:   Sun Nov 13 23:50:36 2022 +0800
+
+    Merge pull request #71 from power721/feature/subtitle-text-size
+    
+    预览窗口自动适应字幕大小
+
+commit 6e57c885305813ee2018484ccbc20016a7c56865
+Author: Harold <power0721@gmail.com>
+Date:   Sun Nov 13 10:09:44 2022 +0800
+
+    预览窗口自动适应字幕大小
+
+commit 9ca35bf19438b3bc45d1dce5734e6b0ef0d4ebcb
+Merge: f45d0b2 4f64937
+Author: Roinlong <32796060+Roinlong@users.noreply.github.com>
+Date:   Sun Nov 13 21:44:43 2022 +0800
+
+    Merge pull request #70 from power721/feature/split-words
+    
+    快速搜索:加强分词
+
+commit f45d0b27ed252ca9868f21769d9db1fd45a417aa
+Merge: 5935c02 f4c7156
+Author: Roinlong <32796060+Roinlong@users.noreply.github.com>
+Date:   Sun Nov 13 21:43:03 2022 +0800
+
+    Merge pull request #72 from linhua55/main
+    
+    解决移动网络下ijkplayer播放视频手动快进时出现的卡顿问题
+
+commit 5935c02746feb000fd4f2b212704ba15f34bf782
+Merge: a7ce520 78a641e
+Author: okjackcaptain <378702538@qq.com>
+Date:   Sun Nov 13 20:21:32 2022 +0800
+
+    Merge remote-tracking branch 'origin/main'
+
+commit a7ce520b580e92f34c6d1562de927fa2b78b8514
+Author: okjackcaptain <378702538@qq.com>
+Date:   Sun Nov 13 20:21:12 2022 +0800
+
+    - 预览窗口可选中(by okjack)
+    - 预览窗口可点击全屏(by okjack)
+
+commit f4c715670b89596983904c4f72dc304386f491cf
+Author: linhua55 <5linhua5@gmail.com>
+Date:   Sun Nov 13 12:07:57 2022 +0800
+
+    解决移动网络下ijkplayer播放视频手动快进时出现的卡顿问题
+    
+    参考 https://github.com/bilibili/ijkplayer/issues/4965
+
+commit 4f64937643bdef55fcc0654ad19bde1f9136a40e
+Author: Harold <power0721@gmail.com>
+Date:   Sat Nov 12 18:48:35 2022 +0800
+
+    快速搜索:加强分词
+
+commit 78a641e7a97671f0fb28df878cb5af322ff6c4e9
+Author: 于俊 <215613905@qq.com>
+Date:   Sat Nov 12 17:58:28 2022 +0800
+
+    解决搜索播放返回焦点丢失问题;                                                 epg配置地址写入配置lives下 "epg":"epgUrl";同时兼容蜂蜜的带参epg配置
+
+commit 85a77cd5d4fad0634256b17d0f98995ab1497e3f
+Author: 于俊 <215613905@qq.com>
+Date:   Sat Nov 12 14:19:33 2022 +0800
+
+    修正部分电视盒子选集焦点丢失问题
+
+commit 19e8d20fdab023c296409d8932fe3abe81bb0c95
+Author: 21561 <215613905@qq.com>
+Date:   Fri Nov 11 23:09:30 2022 +0800
+
+    恢复内置ijk配置(优先调用用户自己的配置);修正一处集数分组bug
+
+commit 9818a20d0b0b05b3fb3a8339395ed5ad979e6e24
+Author: 于俊 <215613905@qq.com>
+Date:   Fri Nov 11 17:15:38 2022 +0800
+
+    补充提交
+
+commit 2cfb82f5096310fff195fc9ea46188cc0079891c
+Author: 于俊 <215613905@qq.com>
+Date:   Fri Nov 11 17:13:52 2022 +0800
+
+    集数动态分组;                                                              首页换源动态列数;                                                          指定搜索源逻辑优化;                                                        内置ijk配置更新;
+
+commit 579a61d878b66e74b1473e6662d54d6a2c23fc11
+Merge: f3e8d3a 71edbbb
+Author: q215613905 <215613905@qq.com>
+Date:   Fri Nov 11 17:08:27 2022 +0800
+
+    Merge pull request #69 from power721/bug/encode-url
+    
+    修复解析url
+
+commit 71edbbbea5dfa5e8c9db02a5251babd7df4ad4bf
+Author: Harold <power0721@gmail.com>
+Date:   Fri Nov 11 10:49:06 2022 +0800
+
+    修复解析url
+
+commit f3e8d3a454fb1cc570753ea13ee5b29447549e7a
+Author: 于俊 <215613905@qq.com>
+Date:   Wed Nov 9 14:43:48 2022 +0800
+
+    播放控制器延长为10秒后消失
+
+commit ab7429c68ebf454c69d4b0dc1f4398f8656850af
+Author: 于俊 <215613905@qq.com>
+Date:   Wed Nov 9 14:02:47 2022 +0800
+
+    安卓P以上版本的刘海屏适配;                                                    搜索界面不自动拉取软键盘;
+
+commit c85f0a8360fa89732c04703025d373ee26117741
+Author: 21561 <215613905@qq.com>
+Date:   Mon Nov 7 20:31:50 2022 +0800
+
+    嗅探调整
+
+commit 3ac5bde5d574441311e37b84d85288855c056668
+Merge: 3c86242 9519049
+Author: 21561 <215613905@qq.com>
+Date:   Sat Nov 5 21:35:09 2022 +0800
+
+    Merge remote-tracking branch 'origin/main'
+
+commit 3c862424c5ef9240ee7af31de7c48ed9c92f6568
+Author: 21561 <215613905@qq.com>
+Date:   Sat Nov 5 21:27:34 2022 +0800
+
+    修正图床加载bug;修正多直播源不识别
+
+commit 9519049587632463323dff78bb74291bb2ea3124
+Author: 21561 <215613905@qq.com>
+Date:   Sat Nov 5 21:27:34 2022 +0800
+
+    修正图床加载bug;修正多直播源不识别
+
+commit 4ba1c6b84818edcc70928ce5189e3af65d33ee87
+Author: okjackcaptain <378702538@qq.com>
+Date:   Sat Nov 5 18:14:04 2022 +0800
+
+    - 显示底部菜单时，下一集按钮获得焦点(by okjack)
+    - 字幕格式解析失败重试(by okjack)
+
+commit 282b12396088c0e2e36711a5f72e9fc394af6021
+Author: 于俊 <215613905@qq.com>
+Date:   Sat Nov 5 18:03:52 2022 +0800
+
+    直播无需jar代理;兼容蜂蜜在线配置;竖屏按钮显示时机修正
+
+commit e631bcf02a2f62b33bc2bf0ce17fc4543514751c
+Author: 于俊 <215613905@qq.com>
+Date:   Fri Nov 4 17:04:43 2022 +0800
+
+    去除右上角播放进度;配置加载优化(已内置ijk解码和ads);竖屏按钮播放短视频时才显示
+
+commit db366092ef98aea76f9278b2ac6aba9b1e8ab2e1
+Author: 21561 <215613905@qq.com>
+Date:   Thu Nov 3 21:12:07 2022 +0800
+
+    引入长按倍速播放(借鉴taka);图床增加更多图片格式的支持;播放进度常驻
+
+commit a2737b3999bf016658508718f1b7f6b991f93190
+Author: okjackcaptain <378702538@qq.com>
+Date:   Mon Oct 31 12:11:00 2022 +0800
+
+    - 去除推送剪切板url正则(by okjack)
+
+commit 57a5a675ef84882a87a50fa98249e1514516bc43
+Author: okjackcaptain <378702538@qq.com>
+Date:   Mon Oct 31 11:47:34 2022 +0800
+
+    - 设置页面UI对齐(by okjack)
+
+commit 9ccbeb96ba3f0439876aa650a6d773a42495338b
+Author: 21561 <215613905@qq.com>
+Date:   Sun Oct 30 22:48:39 2022 +0800
+
+    片头片尾逻辑更新(借鉴fongmi);首页小调整;修正嗅探rule换源时无限叠加的bug;m3u8播放失败重试时添加外部代理(临时逻辑)
+
+commit 6bc35ceffaac1cfd03378112ca54b40ee4c50390
+Author: okjackcaptain <378702538@qq.com>
+Date:   Sat Oct 29 11:03:29 2022 +0800
+
+    - 优化搜索局域网TVBox速度(by okjack)
+
+commit ff1fa0edd3a5f7d74abb2a8d3c72fbbba2269ccd
+Author: okjackcaptain <378702538@qq.com>
+Date:   Fri Oct 28 20:36:05 2022 +0800
+
+    - 搜索附近TVBox的bug修复(by okjack)
+
+commit db058376f3cc8c8f776abe47884dffa3d8471dc4
+Author: okjackcaptain <378702538@qq.com>
+Date:   Fri Oct 28 17:39:18 2022 +0800
+
+    - 设置新增搜索附近TVBox（beta版）(by okjack)
+    - 播放器可选择附近TVBox播放（beta版）(by okjack)
+
+commit eb4bc855901d11ce28c9f10a688fd1d4ccccc998
+Author: Roinlong <32796060+Roinlong@users.noreply.github.com>
+Date:   Fri Oct 28 16:27:10 2022 +0800
+
+    修复直播换源闪退
+
+commit 151624dd61d1617a6af2017ebcbcaa40c6fc4b72
+Author: 21561 <215613905@qq.com>
+Date:   Thu Oct 27 22:40:30 2022 +0800
+
+    修正系统自带view携带cookie不生效的问题
+
+commit 5fc541fa86d66356a944f3eb521eb9c927325f14
+Author: 于俊 <215613905@qq.com>
+Date:   Thu Oct 27 16:44:06 2022 +0800
+
+    首页小调整;嗅探可携带cookie播放
+
+commit f7fb0d4177f01e94486e9ebe48b74bdbafe06603
+Author: okjackcaptain <378702538@qq.com>
+Date:   Wed Oct 26 18:24:31 2022 +0800
+
+    - 为jar使用webview提供支持 (by okjack)
+
+commit 4d622796507202e72d088fb526c1b58cce0a931f
+Author: okjackcaptain <378702538@qq.com>
+Date:   Wed Oct 26 09:35:54 2022 +0800
+
+    - 指定搜索源弹窗卡顿bug修复 (by okjack)
+    - 嗅探规则配置新增filter字段 (by okjack)
+
+commit 29fd7803345d1f6289da2476749315036818a518
+Author: okjackcaptain <378702538@qq.com>
+Date:   Tue Oct 25 11:24:22 2022 +0800
+
+    - 字幕黑边bug (by okjack)
+    - 嗅探规则配置支持正则 (by okjack)
+
+commit dd110ccfef369ccbca4a6b7c27a66664efd693b2
+Author: okjackcaptain <378702538@qq.com>
+Date:   Mon Oct 24 20:24:23 2022 +0800
+
+    - 字幕黑边 (by okjack)
+    - 云盘字幕不能加载的bug修复 (by okjack)
+
+commit dff736724060205711903d402581a34a47657f46
+Author: okjackcaptain <378702538@qq.com>
+Date:   Mon Oct 24 18:43:06 2022 +0800
+
+    -
+
+commit f2cfb956405cb764f64d83b0a99093c438576de7
+Author: okjackcaptain <378702538@qq.com>
+Date:   Mon Oct 24 18:39:29 2022 +0800
+
+    - 嗅探相关(by okjack)
+
+commit 05012f0b0a86f0da99f83e44777c17e5386a5aee
+Author: Roinlong <32796060+Roinlong@users.noreply.github.com>
+Date:   Sun Oct 23 18:11:10 2022 +0800
+
+    修复直播bug
+
+commit c1c358cccc9b335cd23f597e8c5745ac31f93dd0
+Author: Roinlong <32796060+Roinlong@users.noreply.github.com>
+Date:   Sun Oct 23 16:06:46 2022 +0800
+
+    直播支持回看  回看增加滑动进度条
+    直播支持7日回看  by laodao
+    EPG布局更改
+    epg模糊匹配代码优化,台标显示 by kenson
+
+commit 4bab3fcddbb08c004e00d7bcc4abf4398ef0d178
+Author: 于俊 <215613905@qq.com>
+Date:   Fri Oct 21 16:17:19 2022 +0800
+
+    增加首页推荐多行显示开关; 更完善的兼容道长drpy; 搜索软键盘bug修正; 播放地址随播放切换; 全局旋转
+
+commit caad2795085ddc3f989fec4c6c1358b8d35a1496
+Author: 于俊 <215613905@qq.com>
+Date:   Tue Oct 18 15:18:20 2022 +0800
+
+    1兼容道长本地js(drpy);js引擎-req方法识别Content-Type(完善);
+
+commit 7b512162c7979dea507fb855de3fd2de06bbab76
+Author: 21561 <215613905@qq.com>
+Date:   Sat Oct 15 21:02:32 2022 +0800
+
+    紧急修复图床
+
+commit 9abe4af647ef0b2803ccf9bd93dba0536b593b4d
+Author: 于俊 <215613905@qq.com>
+Date:   Sat Oct 15 17:00:39 2022 +0800
+
+    1兼容道长本地js(drpy);2首页UI调整;3热搜词联想切换为爱奇艺;4 js引擎-req方法识别Content-Type;5嗅探带上cookie播放;6部分pk配置任然加载失败的bug
+
+commit dc61861380e45eac7ad36e2ee528941f74e25202
+Author: 21561 <215613905@qq.com>
+Date:   Wed Oct 12 23:18:55 2022 +0800
+
+    图床bugFixed
+
+commit e5cdb49b1e2903966b9bd6303645058a97a8a74f
+Author: 于俊 <215613905@qq.com>
+Date:   Wed Oct 12 17:31:35 2022 +0800
+
+    修正pk加密方式不能解析
+
+commit ec04fe6449fb566448b3d3b4bbff8e3db6bcf3df
+Author: 21561 <215613905@qq.com>
+Date:   Wed Oct 12 00:14:27 2022 +0800
+
+    修正图床bug;修正嗅探偶发报错;
+
+commit 62cfd26dcf456337d00681f7820ec43fb9c639c1
+Merge: bcf7bef 8f5b582
+Author: q215613905 <215613905@qq.com>
+Date:   Tue Oct 11 22:15:18 2022 +0800
+
+    Merge pull request #63 from Tangsan99999/main
+    
+    兼容老猫的配置加密及图床
+    参考使用 https://catvodtvofficial.github.io/CatVodTVJsonEditor/
+
+commit 8f5b582bb5f26c1ca89d2b38117a6847c84060dd
+Merge: 9ab506e 4c3f550
+Author: 唐三 <89683694+Tangsan99999@users.noreply.github.com>
+Date:   Tue Oct 11 19:56:28 2022 +0800
+
+    Merge remote-tracking branch 'origin/main'
+    
+    # Conflicts:
+    #       app/src/main/java/com/github/tvbox/osc/api/ApiConfig.java
+
+commit 9ab506e6592ab1c8db65c03ca1f776cf31208b78
+Author: 唐三 <89683694+Tangsan99999@users.noreply.github.com>
+Date:   Tue Oct 11 15:51:49 2022 +0800
+
+    参考使用
+    https://catvodtvofficial.github.io/CatVodTVJsonEditor/
+
+commit 4c3f55014a95d9c6d1659a4a1f9eb379fea8f572
+Author: 唐三 <89683694+Tangsan99999@users.noreply.github.com>
+Date:   Tue Oct 11 15:51:49 2022 +0800
+
+    参考使用
+    https://catvodtvofficial.github.io/CatVodTVJsonEditor/
+
+commit bcf7bef52d6c6d14dd40264ccf6b8494f42263ad
+Author: 21561 <215613905@qq.com>
+Date:   Mon Oct 10 23:41:17 2022 +0800
+
+    小窗模式下取消循环播放;点击播放嗅探配置兼容不带域名的方式;修正非小窗模式不支持click
+
+commit 8a1727a0cf82801d55ca2b028fcd52c21d4467e9
+Author: 于俊 <215613905@qq.com>
+Date:   Mon Oct 10 18:01:57 2022 +0800
+
+    web嗅探支持ext里的UA传递;支持点击播放的站点嗅探;热词联想小调整;rules规则小调整
+
+commit 64b8c46249c18e58ae2cc24803426949d0d6b2a2
+Author: okjackcaptain <378702538@qq.com>
+Date:   Sun Oct 9 14:39:29 2022 +0800
+
+    - 修复更换配置引起指定搜索源bug修复 (by okjack)
+    - 修复选择首页数据源滚动到指定位置 (by okjack)
+
+commit 834517de8785c003a53361a2da4909355de53689
+Merge: a3f0f35 13f4b2c
+Author: q215613905 <215613905@qq.com>
+Date:   Sun Oct 9 00:59:57 2022 +0800
+
+    Merge pull request #61 from ShadowDemon1997/main
+    
+    Try add drpy js support. by影魔
+
+commit 13f4b2cbecf4f82e73be15118d272c4e23a33249
+Author: ShadowDemon <>
+Date:   Sat Oct 8 22:50:39 2022 +0800
+
+    drpy 本地js 支持.
+
+commit 854b7d64a39c33b86f962acb6f0ff25c960cdcca
+Author: ShadowDemon <>
+Date:   Sat Oct 8 17:17:47 2022 +0800
+
+    drpy 本地js 支持.
+
+commit a3f0f35e49240a0aa8d1a867231546ddf760633d
+Author: 21561 <215613905@qq.com>
+Date:   Sat Oct 8 00:11:24 2022 +0800
+
+    解决部分在线配置加载失败;解决播放记录未同步问题;恢复嗅探默认正则正则未包含到的视频请自行配置rules;其他小调整
+
+commit 9b0ff83d611febf37a86080f18fb6c3c0cea930d
+Author: okjackcaptain <378702538@qq.com>
+Date:   Wed Oct 5 18:58:09 2022 +0800
+
+    - 嗅探规则配置相关
+
+commit 032a299a00d1e3b9264393c9c80df22e76e7d228
+Author: okjackcaptain <378702538@qq.com>
+Date:   Wed Oct 5 11:50:27 2022 +0800
+
+    - 一些优化
+
+commit 9f644537996888b979cdd68bbaebedb81c2b67f4
+Author: okjackcaptain <378702538@qq.com>
+Date:   Wed Oct 5 09:59:41 2022 +0800
+
+    - 直播相关bug修复
+    - 嗅探速度优化
+    - 分类列表页优化
+
+commit b85f62e2b0b254952099cc936d20acbfc8e243a3
+Author: okjackcaptain <378702538@qq.com>
+Date:   Tue Oct 4 18:38:43 2022 +0800
+
+    - 推送视频
+
+commit 0d8abeac2ad6ec99794c687e1cbc6a14548a4005
+Author: okjackcaptain <378702538@qq.com>
+Date:   Tue Oct 4 18:06:36 2022 +0800
+
+    - 推送剪切板已支持各类短视频和直播分享链接
+    - 配置新增嗅探规则配置
+
+commit 3386a1e765a30e92d39df42450f83b7d9da7638a
+Author: okjackcaptain <378702538@qq.com>
+Date:   Mon Oct 3 17:56:53 2022 +0800
+
+    - bug fix
+
+commit 1469c788479afcfd2f9c514f0293dc1cfadb6020
+Author: okjackcaptain <378702538@qq.com>
+Date:   Mon Oct 3 11:38:29 2022 +0800
+
+    - 一些优化
+
+commit 675e81fe6cb8e34c3a313b88365650ef5cce9bc5
+Author: okjackcaptain <378702538@qq.com>
+Date:   Sat Oct 1 18:56:25 2022 +0800
+
+    - 首页热点推荐不出现的bug修复
+    - 嗅探的一些bug修复
+
+commit e9fc43e2567221d2c5cfcf963a09b9e08102cbbb
+Author: okjackcaptain <378702538@qq.com>
+Date:   Sat Oct 1 10:39:49 2022 +0800
+
+    - 搜索页指定搜索源全局
+    - 快速搜索页搜索结果源展示bug修复
+
+commit 3419a6a6e257ca695ae9ead77f6b4b5e61afca55
+Merge: b5ed2bb b836832
+Author: q215613905 <215613905@qq.com>
+Date:   Sat Oct 1 09:34:03 2022 +0800
+
+    Merge pull request #58 from ShadowDemon1997/main
+    
+    Try add dr py js rule support.
+
+commit b836832a7394f15accba8d3ca4401ad8de367b65
+Merge: 5643842 b5ed2bb
+Author: ShadowDemon <89052434+ShadowDemon1997@users.noreply.github.com>
+Date:   Sat Oct 1 00:14:37 2022 +0800
+
+    Merge branch 'q215613905:main' into main
+
+commit 56438425805ca834215e34b1d0c3a43099a39ac6
+Author: ShadowDemon <>
+Date:   Sat Oct 1 00:14:26 2022 +0800
+
+    Add js local.delete
+
+commit b5ed2bb715442d8eab4d91ed369adf6e14b55937
+Author: okjackcaptain <378702538@qq.com>
+Date:   Fri Sep 30 22:23:42 2022 +0800
+
+    - 预览窗口播放竖屏返回的bug修复
+
+commit e81e06c256f9bb07126b2b7f6151074c120e9244
+Author: okjackcaptain <378702538@qq.com>
+Date:   Fri Sep 30 19:56:51 2022 +0800
+
+    - parse优化
+
+commit 97d29e8e61665333dc45738585b90ebf7d4d6648
+Author: okjackcaptain <378702538@qq.com>
+Date:   Fri Sep 30 19:40:36 2022 +0800
+
+    - 嗅探优化
+
+commit 052a9189689021a544b34a0a5d8e0a2cdb7f0711
+Author: ShadowDemon <>
+Date:   Fri Sep 30 17:46:44 2022 +0800
+
+    add dr support step 0.1
+
+commit 8fa716f1afbe19abde6d4210c0a0a4eb1007619d
+Author: ShadowDemon <>
+Date:   Fri Sep 30 17:44:40 2022 +0800
+
+    add dr support step 0.1
+
+commit 7fc45ff6c0451782ed191c166436fc9fb66d88b4
+Author: 于俊 <215613905@qq.com>
+Date:   Fri Sep 30 14:15:33 2022 +0800
+
+    解决阿里系未开小窗播放闪退问题
+
+commit 89732792d33c5637f334a2a644f4b1c867d2bd81
+Author: okjackcaptain <378702538@qq.com>
+Date:   Fri Sep 30 13:53:23 2022 +0800
+
+    - live播放出现点击没反应bug修复
+    - 预览窗口播放自动全屏bug修复
+    - 新增视频横竖屏手动切换
+
+commit 259a56e1a1a479d00f052915d8d77aaf13e87597
+Author: 21561 <215613905@qq.com>
+Date:   Fri Sep 30 00:25:42 2022 +0800
+
+    再次优化嗅探                                                  解决收藏夹闪退
+
+commit 146944fe6adb34e3ca80f27e3bca5fe5dfde2e27
+Author: okjackcaptain <378702538@qq.com>
+Date:   Thu Sep 29 19:10:48 2022 +0800
+
+    - live播放出现点击没反应bug修复
+
+commit e9a1125cae63cd53058488c858af5e3dc9c02e6a
+Author: okjackcaptain <378702538@qq.com>
+Date:   Thu Sep 29 11:05:11 2022 +0800
+
+    - 去掉EPG本地存储权限相关
+
+commit 2afab8b3457cbceaec06118ba076adedccb87828
+Merge: 65a11d0 6f261c5
+Author: okjackcaptain <113525318+okjackcaptain@users.noreply.github.com>
+Date:   Thu Sep 29 10:53:40 2022 +0800
+
+    Merge pull request #57 from ShadowDemon1997/dev
+    
+    Add quickjs support.
+
+commit 6f261c5f40c4d984ca8c72822377f3b411575dbd
+Author: ShadowDemon <>
+Date:   Thu Sep 29 10:31:24 2022 +0800
+
+    Add quickjs support.
+
+commit 65a11d0ea335141130a6d7e7e97128417df2ba83
+Author: 21561 <215613905@qq.com>
+Date:   Thu Sep 29 00:09:42 2022 +0800
+
+    解决小窗模式下短视频竖屏闪退;聚合搜索数量显示真实计数;嗅探调整;
+
+commit a680c46686eae9fd43f16efe80c935c9c58182c6
+Author: 于俊 <215613905@qq.com>
+Date:   Wed Sep 28 20:28:23 2022 +0800
+
+    播放列表循环播放
+
+commit f37237602c0c3774e75e85f332aab9ae4c16f5bd
+Merge: b2d3231 8f6e2bc
+Author: q215613905 <215613905@qq.com>
+Date:   Wed Sep 28 20:14:50 2022 +0800
+
+    Merge pull request #56 from llb0/main
+    
+    根据视频宽高比旋转横竖屏(抖音/火山)
+
+commit b2d323137760d42c2f067ebcc673a81b691f75e7
+Author: okjackcaptain <378702538@qq.com>
+Date:   Wed Sep 28 16:55:48 2022 +0800
+
+    - 搜索页指定搜索源TV端bug修复
+
+commit 8f6e2bcea643ef8a399046bfa0c8174aefd30331
+Author: llb0 <108737112+llb0@users.noreply.github.com>
+Date:   Wed Sep 28 09:56:29 2022 +0800
+
+    Add files via upload
+
+commit 9cab75b2057533f0b3c1263e8c936fb47d82744d
+Author: okjackcaptain <378702538@qq.com>
+Date:   Wed Sep 28 09:39:50 2022 +0800
+
+    - 搜索页指定搜索源TV端bug修复
+    - 搜索页指定搜索源全局时效
+
+commit 4c2ab5a5dbb1fff07d396626d621095dd664a89d
+Author: llb0 <108737112+llb0@users.noreply.github.com>
+Date:   Wed Sep 28 09:38:25 2022 +0800
+
+    Add files via upload
+
+commit d8828285df5a90a1bbef49248c51580ed4178db2
+Author: llb0 <108737112+llb0@users.noreply.github.com>
+Date:   Wed Sep 28 09:37:08 2022 +0800
+
+    Add files via upload
+
+commit 4d5740eb67c17e0c94baa0befb6f7afa8a5445d2
+Author: llb0 <108737112+llb0@users.noreply.github.com>
+Date:   Wed Sep 28 09:35:34 2022 +0800
+
+    Add files via upload
+
+commit b20462e7008bcbec5254928cca14e910f6bff319
+Author: 21561 <215613905@qq.com>
+Date:   Tue Sep 27 23:51:21 2022 +0800
+
+    ?
+
+commit 0d91913b5605c29df31057a67ac95fa22629fa13
+Merge: 668c9d9 3903689
+Author: 21561 <215613905@qq.com>
+Date:   Tue Sep 27 23:43:43 2022 +0800
+
+    Merge remote-tracking branch 'origin/main'
+
+commit 668c9d90ecd02956ac2b1a93d1d7f0af6151f844
+Author: 21561 <215613905@qq.com>
+Date:   Tue Sep 27 23:39:44 2022 +0800
+
+    嗅探再次优化                                                  解决倒叙后相同位置集数播放进度未重置的问题
+
+commit 39036897e25dff0141374913f4e02b4ad3ee2fae
+Author: Roinlong <32796060+Roinlong@users.noreply.github.com>
+Date:   Tue Sep 27 23:12:27 2022 +0800
+
+    Update HomeActivity.java
+    
+    修复多次弹出以获得存储权限的bug
+
+commit 434ff051427a7dc3011b3acce34d1119fba63940
+Author: 21561 <215613905@qq.com>
+Date:   Tue Sep 27 21:55:30 2022 +0800
+
+    嗅探优化；播放字号统一；其他小调整
+
+commit 4947aa40259d33768cf6aec5d7242b633d329f7a
+Author: okjackcaptain <378702538@qq.com>
+Date:   Tue Sep 27 21:26:10 2022 +0800
+
+    - 搜索页指定搜索源bug修复
+
+commit 6deb12fb37b91a1b7eaf559d5603a7ea5629644d
+Author: okjackcaptain <378702538@qq.com>
+Date:   Tue Sep 27 21:19:33 2022 +0800
+
+    - 搜索页指定搜索源优化
+
+commit 660a2ae250dcfd038241e8dc122b3beaa627bc4b
+Author: Roinlong <32796060+Roinlong@users.noreply.github.com>
+Date:   Tue Sep 27 21:05:18 2022 +0800
+
+    优化底部EPG信息栏显示逻辑
+    添加EPG节目名称本地模糊匹配,可以采用Assets资源文件中的默认文件,也可以在tvbox_tv文件夹中自定义该文件 文件名称为  Roinlong_Epg.json,也可以采取服务器等网络获取
+
+commit 557171f37fcccfe3ae101c81f358cbf379adeeb9
+Author: okjackcaptain <378702538@qq.com>
+Date:   Tue Sep 27 19:17:29 2022 +0800
+
+    - 搜索页支持指定搜索源
+
+commit 0d949e3493f90d9f77cd47716e652be0ff7f043c
+Author: 21561 <215613905@qq.com>
+Date:   Mon Sep 26 16:40:03 2022 +0800
+
+    热搜词修正                                                  优化聚搜逻辑                                                以及其他小调整
+
+commit 38b7df4fff696fe04a3769279e54233d85b694fb
+Author: okjackcaptain <378702538@qq.com>
+Date:   Sun Sep 25 11:09:21 2022 +0800
+
+    - 内置字幕默认选择中文
+    - 内置字幕显示bug修复
+    - 字幕样式默认白色黑边
+    - 字幕样式新增少女粉
+    - 去掉字幕搜索结果过滤
+
+commit 794602e90ae51f1a28b0cdabe96191137b7d9b6f
+Author: 于俊 <215613905@qq.com>
+Date:   Sat Sep 24 17:27:58 2022 +0800
+
+    热搜词改回腾讯热搜                                                             收藏可见站点名称                                                            字幕搜索结果过滤                                                            非阿里系字幕搜索默认取剧名                                                   音轨改取language为name                                                    据搜切换站点时偶发性bug
+
+commit 43bedf50e6cafb1576dc7f4db954e14ebddb0095
+Author: okjackcaptain <378702538@qq.com>
+Date:   Sat Sep 24 10:47:22 2022 +0800
+
+    - 字幕加载逻辑优化
+    - 云盘原画支持Mx播放器
+    - 云盘原画支持Kodi播放器
+
+commit 1593fb8949a575a6261c67e1a7ed570822f8d013
+Author: okjackcaptain <378702538@qq.com>
+Date:   Fri Sep 23 19:48:30 2022 +0800
+
+    - ijk支持内置字幕
+
+commit f3c3bc85a43f1845f07cd6ee47bdbbfcb3161ffd
+Author: okjackcaptain <378702538@qq.com>
+Date:   Fri Sep 23 13:40:58 2022 +0800
+
+    - 字幕解析bug修复
+    - 点重播可清除字幕记忆
+    - 长按字幕关闭外挂字幕并清除字幕记忆
+    - 字幕相关优化
+
+commit 96da84eb3d2467de422cb9615052aa4f007acfc5
+Author: 于俊 <215613905@qq.com>
+Date:   Thu Sep 22 17:53:09 2022 +0800
+
+    历史记录可查看上次看到哪一集 长按选择播放器 长按关闭外挂字幕
+
+commit 08e90513b3f0fc850c36e3a692368128cc568e08
+Author: okjackcaptain <378702538@qq.com>
+Date:   Thu Sep 22 13:44:38 2022 +0800
+
+    - ijk支持切换音轨
+    - 字幕记忆bug修复
+    - 字幕列表可返回
+
+commit 215dd808840fd1b9d95a334b72e4f4402ee0e6a2
+Author: okjackcaptain <378702538@qq.com>
+Date:   Wed Sep 21 13:34:58 2022 +0800
+
+    - 增加字幕记忆
+    - 字幕乱码bug修复
+
+commit 2f6f26e33614d6fd2940d36a8117a85d960556b6
+Author: okjackcaptain <378702538@qq.com>
+Date:   Tue Sep 20 13:54:08 2022 +0800
+
+    - 字幕大小自适应
+    - 字幕大小可调节
+    - 字幕延时可调节
+
+commit 506d85ed87e7ad90e5b617867d1268e38e888321
+Author: Roinlong <32796060+Roinlong@users.noreply.github.com>
+Date:   Tue Sep 20 13:49:32 2022 +0800
+
+    Update ApiDialog.java
+
+commit 5aee58bfe8506ec7c724a1efd2574c2ab3492c44
+Author: Roinlong <32796060+Roinlong@users.noreply.github.com>
+Date:   Mon Sep 19 20:07:37 2022 +0800
+
+    修改自定义格式，自定义EPG可以不用加 ?ch=
+    支持51zmt  和  112114（带模糊匹配）EPG
+
+commit aa75a6c884a7fed8bc09112abf3b974c961eb400
+Author: Roinlong <32796060+Roinlong@users.noreply.github.com>
+Date:   Mon Sep 19 17:55:40 2022 +0800
+
+    Revert "添加EPG自定义设置接口"
+    
+    添加自定义Epg设置
+
+commit b267210064739e3d826c30ee22a61e5c79c4b5ed
+Merge: 2169aa3 ce88774
+Author: Roinlong <32796060+Roinlong@users.noreply.github.com>
+Date:   Mon Sep 19 17:41:16 2022 +0800
+
+    Merge remote-tracking branch 'origin/main'
+    
+    # Conflicts:
+    #       app/src/main/java/com/github/tvbox/osc/ui/tv/widget/AudioWaveView.java
+    #       app/src/main/java/com/github/tvbox/osc/ui/tv/widget/Epginfo.java
+    #       app/src/main/java/com/github/tvbox/osc/util/urlhttp/AESUtil.java
+    #       app/src/main/java/com/github/tvbox/osc/util/urlhttp/CallBackUtil.java
+    #       app/src/main/java/com/github/tvbox/osc/util/urlhttp/RealRequest.java
+    #       app/src/main/java/com/github/tvbox/osc/util/urlhttp/RealResponse.java
+    #       app/src/main/java/com/github/tvbox/osc/util/urlhttp/RequestUtil.java
+    #       app/src/main/java/com/github/tvbox/osc/util/urlhttp/ThreadsManager.java
+    #       app/src/main/java/com/github/tvbox/osc/util/urlhttp/UrlHttpUtil.java
+    #       app/src/main/res/layout/epglist_item.xml
+
+commit 2169aa391208b8bde4d840695a379ff2bc1549ee
+Author: Roinlong <32796060+Roinlong@users.noreply.github.com>
+Date:   Mon Sep 19 17:40:12 2022 +0800
+
+    Revert "添加EPG自定义设置接口"
+    
+    添加自定义Epg设置
+
+commit 5aee5f214d7426efc9237a827f927b0b31386b86
+Author: Roinlong <32796060+Roinlong@users.noreply.github.com>
+Date:   Mon Sep 19 17:32:21 2022 +0800
+
+    添加EPG自定义设置接口
+
+commit 44aca0aca5bb278f6bd1f9ad6c19ecae68dc2397
+Author: Roinlong <32796060+Roinlong@users.noreply.github.com>
+Date:   Mon Sep 19 17:29:16 2022 +0800
+
+    添加EPG自定义设置接口
+
+commit ce887741c917e405dff41ae7e0fdeef851683cce
+Author: Roinlong <32796060+Roinlong@users.noreply.github.com>
+Date:   Mon Sep 19 15:57:26 2022 +0800
+
+    Add files via upload
+
+commit 5f785e07273fefb890ac5144ab1f0029b4a42254
+Author: Roinlong <32796060+Roinlong@users.noreply.github.com>
+Date:   Mon Sep 19 15:39:35 2022 +0800
+
+    Update LivePlayActivity.java
+
+commit 377e292276423f4e417c9b70dcbc18bf32b9b422
+Author: Roinlong <32796060+Roinlong@users.noreply.github.com>
+Date:   Mon Sep 19 15:36:08 2022 +0800
+
+    添加由于网路原因没能成功上传的文件
+
+commit 0c9005c8a26043f3d00dbd5b6a7446b2e892d417
+Author: Roinlong <32796060+Roinlong@users.noreply.github.com>
+Date:   Mon Sep 19 15:32:15 2022 +0800
+
+    Add files via upload
+
+commit a736309b082c13e5158a3f5cc3905368accb0e8c
+Author: Roinlong <32796060+Roinlong@users.noreply.github.com>
+Date:   Mon Sep 19 15:30:37 2022 +0800
+
+    Add files via upload
+
+commit 30076736e7ce5966f81d1dade925f2a04a44cef9
+Author: Roinlong <32796060+Roinlong@users.noreply.github.com>
+Date:   Mon Sep 19 15:15:05 2022 +0800
+
+    Update gradle.properties
+
+commit a19d32510c1fd4781bdee2f220111ec129ff5e94
+Author: Roinlong <32796060+Roinlong@users.noreply.github.com>
+Date:   Mon Sep 19 15:05:09 2022 +0800
+
+    add png
+
+commit 141425f935758b2c07ac1190949603f6f6edc5bc
+Author: Roinlong <32796060+Roinlong@users.noreply.github.com>
+Date:   Mon Sep 19 13:45:53 2022 +0800
+
+    直播添加EPG支持
+
+commit 1584a3e2748a9c3ade93f291d1569231056453db
+Author: okjackcaptain <378702538@qq.com>
+Date:   Sun Sep 18 20:31:20 2022 +0800
+
+    - 外部播放器增加Kodi
+    - 播放界面选择播放器逻辑优化
+
+commit 1c5dbaf9e5ce1e105f24cbe060dc11813b311acc
+Author: okjackcaptain <378702538@qq.com>
+Date:   Sun Sep 18 14:39:22 2022 +0800
+
+    - 增加在线搜索字幕(beta版)
+    - 修复ass字幕解析bug
+
+commit c4a9e142eb3f5653fda28aa2b2f59e351da2a30f
+Author: okjackcaptain <378702538@qq.com>
+Date:   Sat Sep 17 17:28:38 2022 +0800
+
+    - 云盘字幕加载，字段统一为subt
+    - 增加本地选择字幕功能
+
+commit f0da98bc7bf706345dae345f32b91307277c110e
+Author: 21561 <215613905@qq.com>
+Date:   Thu Sep 15 15:47:24 2022 +0800
+
+    字幕兼容老猫格式（subt参数）
+
+commit 9b6e985b08c29f324ff056b0b6758c024f410b76
+Author: 21561 <215613905@qq.com>
+Date:   Thu Sep 15 11:02:57 2022 +0800
+
+    恢复主页还源 改为长按标题刷新 菜单键换源
+
+commit c0094bbb5331a4b4125cff4fe41a68f004075c86
+Merge: 590aa15 22819fe
+Author: q215613905 <215613905@qq.com>
+Date:   Thu Sep 15 10:59:27 2022 +0800
+
+    Merge pull request #47 from okjackcaptain/main
+    
+    支持挂载字幕 by okjack
+
+commit 22819fee7b2cb669713e219af9a35109d82b9a35
+Author: okjackcaptain <378702538@qq.com>
+Date:   Thu Sep 15 10:45:40 2022 +0800
+
+    1.预览窗口的字幕加载
+
+commit fb5b212fad19222a891349041d5149fc0fc5467a
+Author: okjackcaptain <378702538@qq.com>
+Date:   Wed Sep 14 21:46:46 2022 +0800
+
+    1.加载字幕
+    2.播放界面，右上角速度显示放在时间下面
+    3.修复播放界面标题过长会遮住时间的bug
+
+commit 590aa156782e3b62b8fd2b4a718624713373854d
+Author: 21561 <215613905@qq.com>
+Date:   Tue Sep 13 18:22:47 2022 +0800
+
+    1修正xwalk下载问题 2更新首页及设置的换源逻辑(点击“主页”变成刷新了) 3修复直播明文和相对路径问题 4修正搜索热词不显示
+
+commit 3b6c411c031dd9ad43b05dfcdf337c788a055d17
+Author: 21561 <215613905@qq.com>
+Date:   Sun Sep 11 20:34:03 2022 +0800
+
+    首页长按聚搜 历史记录长按删除 解决web类型解析不能播放问题 配置支持相对路径
+
+commit 6c920762d610b04a18f7688c3676b48df0d3f35e
+Author: 于俊 <215613905@qq.com>
+Date:   Tue Sep 6 20:35:17 2022 +0800
+
+    修正重播 修正播放页缓冲速度遮挡问题 修正分类筛选过多时显示不全  其他细节调整
+
+commit 1f1e2e6bffecdfdaad5bae5d0e2e6b9d290c92d3
+Merge: 992f93d 57a5170
+Author: 于俊 <215613905@qq.com>
+Date:   Fri Sep 2 19:54:33 2022 +0800
+
+    Merge remote-tracking branch 'origin/main'
+
+commit 992f93d21c54ab8d09dc92cf07057aabb2c5daeb
+Author: 于俊 <215613905@qq.com>
+Date:   Fri Sep 2 19:18:36 2022 +0800
+
+    1 加入新的IJK解码库(by影魔)2主页分类跳转优化3尝试解决重复调用解析问题（自行测试）4取消首页自动旋转5恢复默认小窗（目前小窗功能以基本完善）
+
+commit 57a5170bc5be513c2047b679be20b1751bb546e9
+Author: 于俊 <215613905@qq.com>
+Date:   Fri Sep 2 19:18:36 2022 +0800
+
+    1 加入新的IJK解码库(by影魔)2主页分类跳转优化3尝试解决重复调用解析问题（自行测试）4取消首页自动旋转5恢复默认小窗（目前小窗功能以基本完善）
+
+commit 79a074aca327ae22e6a27cb871b31d556aeefdfe
+Author: 于俊 <215613905@qq.com>
+Date:   Wed Aug 31 15:46:26 2022 +0800
+
+    1解决部分嗅探第二次打开嗅探失败的问题2嗅探增加传递如referer等其他header参数3修正筛选分类个别手机显示不全的问题4首页聚搜（5尝试解决拉起软键盘失败问题,尝试解决详情默认焦点为播放地址问题:自行测试）
+
+commit 5aa5bab8889423ae386dffc73ebe02ab97d87475
+Author: 于俊 <215613905@qq.com>
+Date:   Sat Aug 27 17:09:36 2022 +0800
+
+    嗅探强制开启缓存增加ua支持;优化详情页;改分辨率时间随菜单栏显示;修正播放地址复制内容;再次优化倒序逻辑;支持alist爬虫
+
+commit ab16277159148d0ed7260e4ccfed9bc1682133a9
+Merge: 15a4553 e8c558f
+Author: q215613905 <215613905@qq.com>
+Date:   Fri Aug 26 21:47:04 2022 +0800
+
+    Merge pull request #37 from zyjia/main
+    
+    播放页增加显示播放地址,点击复制地址到剪贴板 by zyjia
+
+commit 15a455368b1803b44d465ff7269b60181f922a09
+Merge: da60570 6fe7022
+Author: q215613905 <215613905@qq.com>
+Date:   Fri Aug 26 21:45:26 2022 +0800
+
+    Merge pull request #38 from amoylel/main
+    
+    增加详情页播放列表宽度自适应功能 by amoylel
+
+commit 6fe7022516a867545a0981a9c56f9dba97bd9642
+Author: amoylel <amoylel@hotmail.com>
+Date:   Fri Aug 26 15:54:22 2022 +0800
+
+    增加文件系统类型的抓虫支持
+
+commit 2dc7e5d2e2040317e33e3c9c41123ffbc462d4ea
+Author: amoylel <amoylel@hotmail.com>
+Date:   Fri Aug 26 14:34:25 2022 +0800
+
+    增加聚搜模式
+
+commit 7145ca6631d3390337ab6798cd7634115933aa4c
+Author: amoylel <amoylel@hotmail.com>
+Date:   Fri Aug 26 13:04:25 2022 +0800
+
+    增加详情页播放列表宽度自适应功能
+
+commit e8c558fabc0838ce8bbfe5ddc44a2bb376317bf2
+Author: TonyZhang <tonyzhang1995@163.com>
+Date:   Fri Aug 26 12:10:34 2022 +0800
+
+    Update activity_detail.xml
+
+commit 988772db219272a73b7ec2f01b92a51dcbbef1b1
+Author: TonyZhang <tonyzhang1995@163.com>
+Date:   Fri Aug 26 12:09:45 2022 +0800
+
+    Update DetailActivity.java
+    
+    显示播放地址
+
+commit da605700ca4516d69a281bcb966088d90b2ca464
+Merge: 0b3dd34 cc2edc4
+Author: q215613905 <215613905@qq.com>
+Date:   Wed Aug 24 23:41:01 2022 +0800
+
+    Merge pull request #36 from lineagett/main
+    
+    增加分辨率、时间及缓冲速度显示 by fpotato
+
+commit cc2edc49367cbfeb645fcee19e70f103b9d207fc
+Author: lineagett <lineagetmy@126.com>
+Date:   Wed Aug 24 23:36:29 2022 +0800
+
+    增加分辨率、时间及缓冲速度显示
+
+commit 0b3dd3413e5ec354fdab120f65b6a70ee1b822a5
+Author: 于俊 <215613905@qq.com>
+Date:   Wed Aug 24 23:05:06 2022 +0800
+
+    修复解析重复问题                             修复TV端不能拉起键盘的问题                      其他优化
+
+commit 8d20bad466778c6e0305bfde218d0e9cd12abab1
+Author: 于俊 <215613905@qq.com>
+Date:   Thu Aug 18 17:49:11 2022 +0800
+
+    解决快速搜索显示不全
+
+commit 51209f1110cde99e131e551467f0e5d544e8c354
+Author: 于俊 <215613905@qq.com>
+Date:   Thu Aug 18 15:15:57 2022 +0800
+
+    尝试解决首页换源白屏                            bug fix
+
+commit 15091be2b006d173baaa897b2f32bd098631c9b6
+Author: 21561 <215613905@qq.com>
+Date:   Tue Aug 16 23:54:26 2022 +0800
+
+    搜索界面取消自动拉起软键盘             再次尝试优化倒序                  bug fix                        ps :别催更  随缘
+
+commit 832b58d192ccf49819b6ab8c28afcd034c9b0e1b
+Author: 于俊 <215613905@qq.com>
+Date:   Thu Aug 11 17:19:21 2022 +0800
+
+    优化采集 配置加载时自动添加http协议 尝试优化解析失败重试逻辑 优化倒叙选集问题
+
+commit f4cf57d5be01ae5d51edb8aa8a2d13c2d7fbddde
+Merge: b2ac1d3 f4be509
+Author: q215613905 <215613905@qq.com>
+Date:   Tue Aug 9 22:05:28 2022 +0800
+
+    Merge pull request #33 from 8Marco8/8Marco8-patch-1
+    
+    Allow landscape screen rotation by sensor
+
+commit f4be5097b0ee96b7a9d518f93c8ad70173c298c8
+Author: 8Marco8 <110796128+8Marco8@users.noreply.github.com>
+Date:   Tue Aug 9 20:52:49 2022 +0800
+
+    Allow landscape screen rotation by sensor
+    
+    BY takagen99
+
+commit b2ac1d33a5e06c709d0b261ebf080b04529d0ef0
+Author: 于俊 <215613905@qq.com>
+Date:   Sat Aug 6 17:56:06 2022 +0800
+
+    长按重置倍速,片头片尾  文案”我的“改为”主页“
+
+commit 0a72c303433dba0e171cb107a3bc5c9a3af5db2c
+Merge: 84ca6ff 6d0cab9
+Author: q215613905 <215613905@qq.com>
+Date:   Fri Aug 5 21:22:32 2022 +0800
+
+    Merge pull request #32 from lineagett/main
+    
+    增加设置历史记录数量及详情页取消收藏功能 代码by takagen99
+
+commit 6d0cab969087c74ef681f6e0248f464d74ab8924
+Author: lineagett <lineagetmy@126.com>
+Date:   Fri Aug 5 20:04:28 2022 +0800
+
+    增加设置历史记录数量及详情页取消收藏功能 代码by takagen99
+
+commit 84ca6ff5c5e35b7a4d00c3d61e523bd46b682698
+Author: 21561 <215613905@qq.com>
+Date:   Wed Aug 3 19:14:49 2022 +0800
+
+    bug fix
+
+commit eec72c5f4170ce0e1487d2d7083ff5f441c0a1ec
+Author: 21561 <215613905@qq.com>
+Date:   Tue Aug 2 15:23:45 2022 +0800
+
+    1修复播放偶现APP闪退;2解决TV端详情页小窗预览顶到屏幕顶部边缘;3修正上一版当前集和全屏功能一致造成的换源不生效的BUG;
+
+commit 529aad3b55d553e8c4c5a6a2b89e7f29157cbae4
+Author: 21561 <215613905@qq.com>
+Date:   Mon Aug 1 15:22:03 2022 +0800
+
+    临时解决TV端全屏黑屏问题                     临时恢复点击当前集和全屏功能一致              ps:小窗BUG很多 默认改为关闭 想尝鲜自己打开;很多人反馈更新频繁  后面更新放缓
+
+commit 226ca9ca1c010d4452d0bf58559338d76024728d
+Author: 21561 <215613905@qq.com>
+Date:   Sun Jul 31 12:27:32 2022 +0800
+
+    修正last commit
+
+commit 1596e7e8948b654a2b46d7ade2e8a8551e878d5b
+Merge: e0f3ccc af755db
+Author: q215613905 <215613905@qq.com>
+Date:   Sun Jul 31 12:03:13 2022 +0800
+
+    Merge pull request #28 from lineagett/main
+    
+    增加个别资源嗅探，点击全屏按钮后返回小屏界面焦点修复
+
+commit af755db269f31ddacb26d38210724121d2fee039
+Author: lineagett <110317494+lineagett@users.noreply.github.com>
+Date:   Sun Jul 31 11:10:18 2022 +0800
+
+    Update DefaultConfig.java
+    
+    个别资源嗅探支持
+
+commit fbd6b3a5d7fdb4186693699aba6a71c4adb6eafd
+Author: lineagett <110317494+lineagett@users.noreply.github.com>
+Date:   Sun Jul 31 11:08:26 2022 +0800
+
+    Update DetailActivity.java
+
+commit e0f3cccb8a371abad3b5d1f3f0146127416e9565
+Author: 21561 <215613905@qq.com>
+Date:   Sun Jul 31 08:43:55 2022 +0800
+
+    bug fixed
+
+commit a37da86a8a0d570f36dde3a9510c7a949d0fae96
+Author: 21561 <215613905@qq.com>
+Date:   Sat Jul 30 10:28:29 2022 +0800
+
+    bug fixed
+
+commit 296ad2cf3662d96f64743d9bd6e83221c48132de
+Author: 21561 <215613905@qq.com>
+Date:   Sat Jul 30 01:15:54 2022 +0800
+
+    修正TV端详情页焦点                            修复解析偶发性BUG                         详情当前集数点击时不重新播放
+
+commit 9a6e4148f49a8348ec1efef87f696d711769d5e5
+Author: 21561 <215613905@qq.com>
+Date:   Fri Jul 29 21:37:58 2022 +0800
+
+    解决开启小窗时TV端遥控器焦点丢失问题,新增菜单键可拉起底部菜单                             json解析小调整                           修正上一版视频底部操作栏过长
+
+commit 6af5021b56dfcae47c358363344dac8f2052b6b4
+Merge: 8071a2f 6527ea1
+Author: q215613905 <215613905@qq.com>
+Date:   Fri Jul 29 13:56:21 2022 +0800
+
+    Merge pull request #15 from DaDiaoo/main
+    
+    播放状态栏增加刷新
+
+commit 6527ea17fe30e53561164e15dde7d5ed92b89e75
+Author: DaDiaoo <110216624+DaDiaoo@users.noreply.github.com>
+Date:   Fri Jul 29 12:47:53 2022 +0800
+
+    Update VodController.java
+
+commit bcf982126685bf9c9ed0c4c294429c6a59ab8b5a
+Author: DaDiaoo <110216624+DaDiaoo@users.noreply.github.com>
+Date:   Fri Jul 29 12:45:05 2022 +0800
+
+    Update player_vod_control_view.xml
+
+commit 8071a2f9766a549556c00563ebba9e167333bbdc
+Author: 21561 <215613905@qq.com>
+Date:   Fri Jul 29 01:05:26 2022 +0800
+
+    bug fixed
+
+commit c856e5d9005bb5f506090a1ec1e24312b79fdcfa
+Author: 21561 <215613905@qq.com>
+Date:   Thu Jul 28 19:18:23 2022 +0800
+
+    bug fixed
+
+commit d5b9d188138b26e04da5d6dc5e4d844967003622
+Merge: 8c00ccb b39939e
+Author: q215613905 <215613905@qq.com>
+Date:   Thu Jul 28 19:00:55 2022 +0800
+
+    Merge pull request #12 from Tangsan99999/main
+    
+    Update DetailActivity.java
+
+commit b39939e64fc82da874a4a95a3da18f9c92f203c5
+Author: 唐三 <89683694+Tangsan99999@users.noreply.github.com>
+Date:   Thu Jul 28 18:12:40 2022 +0800
+
+    Update DetailActivity.java
+
+commit 8c00ccbe03a96c68854129ad827e0d7d8fad063e
+Author: 于俊 <215613905@qq.com>
+Date:   Thu Jul 28 17:46:57 2022 +0800
+
+    添加小窗配置开关                                                                视频操作栏闲置5秒自动消失                                                     优化选集时调用顺序问题 提升观感
+
+commit ba980757bb1a760c3d631d934ddf1ef2fb23752c
+Author: 21561 <215613905@qq.com>
+Date:   Wed Jul 27 21:46:24 2022 +0800
+
+    重播本集功能完善     优化选集全屏默认方案                                          补充日志 支持多jar                                          多jar食用方式：                                                {"key":"","name":"","type":3,"api":"","searchable":1,"quickSearch":1,"filterable":1,"jar":"your_other_jar"},
+
+commit 7fd33e5d4aad21e97fe22267117a69e515839cc4
+Author: 于俊 <215613905@qq.com>
+Date:   Wed Jul 27 12:56:52 2022 +0800
+
+    修正小窗版data解析未生效的bug
+
+commit 2c558933d3c109a89bb248a1714b1ba59ec8bed6
+Author: 21561 <215613905@qq.com>
+Date:   Wed Jul 27 08:01:53 2022 +0800
+
+    修改透明栏 色号 修正TV端焦点丢失问题
+
+commit 283388f9ba8e435eee1f92ec3a7cc64a5314147f
+Author: 于俊 <215613905@qq.com>
+Date:   Tue Jul 26 17:58:45 2022 +0800
+
+    修正小窗重播本集BUG
+
+commit 2d6b1f6d894778aa1a340382d45ad99990c257fa
+Author: 于俊 <215613905@qq.com>
+Date:   Tue Jul 26 17:19:13 2022 +0800
+
+    选集全屏取消注释
+
+commit 8abbbe4c4484332ff3da9857b3d319b419d83f3f
+Author: 于俊 <215613905@qq.com>
+Date:   Tue Jul 26 16:33:43 2022 +0800
+
+    重播本集  还原官仓上下集
+
+commit 42b3551bab222808eb7ddd19a01529bddd245a78
+Author: 于俊 <215613905@qq.com>
+Date:   Tue Jul 26 14:57:54 2022 +0800
+
+    Revert "Revert "增加片头片尾时间重置按钮""
+    
+    This reverts commit ee688ab69c6710fb7c601adfe451c01385144129.
+    
+    # Conflicts:
+    #       app/src/main/java/com/github/tvbox/osc/player/controller/VodController.java
+
+commit 9d5e8186e8a45aeb37694a830f8db89997e870d2
+Author: zhanglyt <108105801+zhanglyt@users.noreply.github.com>
+Date:   Mon Jul 25 17:39:12 2022 +0800
+
+    Add files via upload
+
+commit 773b7c3c0c0520b9c5adbc5ff1e6c0a86cdf9b3b
+Author: zhanglyt <108105801+zhanglyt@users.noreply.github.com>
+Date:   Mon Jul 25 17:38:54 2022 +0800
+
+    Delete VodController.java
+
+commit 1a857ac9c079145888e6405387442c5408497c63
+Author: zhanglyt <108105801+zhanglyt@users.noreply.github.com>
+Date:   Mon Jul 25 17:37:21 2022 +0800
+
+    Add files via upload
+
+commit 3203251178849070a6fa3c510a2c8c74a0d7da70
+Author: zhanglyt <108105801+zhanglyt@users.noreply.github.com>
+Date:   Mon Jul 25 17:37:03 2022 +0800
+
+    Delete PlayFragment.java
+
+commit 76efa9e93d3e4cbb412548d2695b7f6b40d51e58
+Author: zhanglyt <108105801+zhanglyt@users.noreply.github.com>
+Date:   Mon Jul 25 17:33:34 2022 +0800
+
+    Update DetailActivity.java
+
+commit e5ba4db0ae2abba867e6d5c303f2741d38385fa6
+Author: zhanglyt <108105801+zhanglyt@users.noreply.github.com>
+Date:   Mon Jul 25 17:32:53 2022 +0800
+
+    Update activity_detail.xml
+
+commit 29ddb56e6d3f915c5e6ede6884c7f2bcea2bf018
+Author: zhanglyt <108105801+zhanglyt@users.noreply.github.com>
+Date:   Mon Jul 25 17:08:32 2022 +0800
+
+    Update VodController.java
+
+commit ddea8cf45a1c6271d6b1e00b2b760ddf833c16ae
+Author: zhanglyt <108105801+zhanglyt@users.noreply.github.com>
+Date:   Mon Jul 25 17:07:32 2022 +0800
+
+    Update DetailActivity.java
+
+commit ab9d9f476864ff1b9321e33f2e7b0e194a3cc16b
+Author: zhanglyt <108105801+zhanglyt@users.noreply.github.com>
+Date:   Mon Jul 25 17:05:31 2022 +0800
+
+    Update activity_detail.xml
+
+commit 2202bbbac2d1d2de0fe265821be129017d9f9f25
+Author: zhanglyt <108105801+zhanglyt@users.noreply.github.com>
+Date:   Mon Jul 25 13:17:49 2022 +0800
+
+    Add files via upload
+
+commit b7f1cebf3249a6048b46567cd7ae233b19e4e9d2
+Author: zhanglyt <108105801+zhanglyt@users.noreply.github.com>
+Date:   Mon Jul 25 13:15:42 2022 +0800
+
+    Update DetailActivity.java
+
+commit aada9a4903ce0b8dfc10b77b9be4f847a47718ee
+Author: zhanglyt <108105801+zhanglyt@users.noreply.github.com>
+Date:   Mon Jul 25 13:15:00 2022 +0800
+
+    Update activity_detail.xml
+
+commit 69891a7643188ad9880f34652f97b2bace4ea84b
+Author: zhanglyt <108105801+zhanglyt@users.noreply.github.com>
+Date:   Mon Jul 25 10:43:47 2022 +0800
+
+    Update SourceBean.java
+
+commit a9eb41ad47f8a23f3ab92e484f75d7d2c7f4c3ca
+Author: zhanglyt <108105801+zhanglyt@users.noreply.github.com>
+Date:   Mon Jul 25 10:43:00 2022 +0800
+
+    Update JarLoader.java
+
+commit 6587ef2ed1b1639a6f14a80471a16dbc6175ca22
+Author: zhanglyt <108105801+zhanglyt@users.noreply.github.com>
+Date:   Mon Jul 25 10:42:02 2022 +0800
+
+    Update ApiConfig.java
+
+commit 0377c2de92f8148439b2c4714acf4def2d3a035f
+Merge: f297ccd ee688ab
+Author: thanatos888 <109846350+thanatos888@users.noreply.github.com>
+Date:   Sun Jul 24 19:28:48 2022 +0800
+
+    Merge pull request #18 from Tangsan99999/revert-9-main
+    
+    Revert "增加片头片尾时间重置按钮"
+
+commit ee688ab69c6710fb7c601adfe451c01385144129
+Author: thanatos888 <109846350+thanatos888@users.noreply.github.com>
+Date:   Sun Jul 24 19:28:29 2022 +0800
+
+    Revert "增加片头片尾时间重置按钮"
+
+commit f297ccd926715d11a9c5ce83ac2bd0dddb2ac145
+Merge: 1f8e689 92956b0
+Author: thanatos888 <109846350+thanatos888@users.noreply.github.com>
+Date:   Sun Jul 24 16:59:36 2022 +0800
+
+    Merge pull request #15 from thanatos888/main
+    
+    界面控制条半透明
+
+commit 92956b0426d21df353eee32c0c04812651f41049
+Author: thanatos518 <675530973@qq.com>
+Date:   Sun Jul 24 16:58:04 2022 +0800
+
+    界面控制条半透明
+
+commit 1f8e689a114f1700a15f2d9fea69f51be3758cb8
+Merge: 93e6ae7 d02f5e0
+Author: thanatos888 <109846350+thanatos888@users.noreply.github.com>
+Date:   Sun Jul 24 15:35:46 2022 +0800
+
+    Merge pull request #12 from thanatos888/main
+    
+    增加对flv|avi|mkv|rm|wmv|mpg等几种视频格式的支持，修正倒序排序时上一集与下一集播放顺序相反的问题
+
+commit d02f5e0d08369584834355ad42bc5eb3f7953c32
+Author: thanatos518 <675530973@qq.com>
+Date:   Sun Jul 24 15:34:19 2022 +0800
+
+    修正倒序排序时上一集与下一集播放顺序相反的问题
+
+commit 93e6ae743800b8bc120be928bd3f30d98db92432
+Author: 唐三 <89683694+Tangsan99999@users.noreply.github.com>
+Date:   Sun Jul 24 14:55:10 2022 +0800
+
+    解决类似龙虾解析
+
+commit 7e25842448038c3802d89a95af8df2a05b8fce4d
+Author: thanatos518 <675530973@qq.com>
+Date:   Sun Jul 24 14:54:55 2022 +0800
+
+    增加对flv|avi|mkv|rm|wmv|mpg等几种视频格式的支持
+
+commit a7e940eb0b6a3d0039d7150c454f5ff5d05a15c6
+Merge: 1d191c4 22323ff
+Author: thanatos888 <109846350+thanatos888@users.noreply.github.com>
+Date:   Sun Jul 24 13:52:09 2022 +0800
+
+    Merge pull request #9 from thanatos888/main
+    
+    增加片头片尾时间重置按钮
+
+commit 22323ff96fa9dbd9867a24c610b1bce6aeead81c
+Author: thanatos518 <675530973@qq.com>
+Date:   Sun Jul 24 13:48:31 2022 +0800
+
+    增加注释
+
+commit 99f53e462da26d47d2d31e1de0011303905da684
+Author: thanatos518 <675530973@qq.com>
+Date:   Sun Jul 24 13:27:15 2022 +0800
+
+    增加片头片尾跳过时间重置功能
+
+commit 1d191c4d089218d7b546b250ff5affa5446e445b
+Merge: c666c66 68c3caf
+Author: 唐三 <89683694+Tangsan99999@users.noreply.github.com>
+Date:   Sat Jul 23 20:40:31 2022 +0800
+
+    Merge pull request #7 from Kimlee-cmd/main
+    
+    首页换源
+
+commit 68c3cafd6a046561881d7ffa7d3771ca1ba15673
+Author: Kimlee-cmd <85122673+Kimlee-cmd@users.noreply.github.com>
+Date:   Sat Jul 23 20:17:47 2022 +0800
+
+    Add files via upload
+
+commit 14c7fa81eb34dec37868a0848667bcb2086b4593
+Author: Kimlee-cmd <85122673+Kimlee-cmd@users.noreply.github.com>
+Date:   Sat Jul 23 20:17:22 2022 +0800
+
+    Delete activity_home.xml
+
+commit 6a1f1e4ba44bc415c785c5d7a248d9eceba21eca
+Author: Kimlee-cmd <85122673+Kimlee-cmd@users.noreply.github.com>
+Date:   Sat Jul 23 20:16:45 2022 +0800
+
+    Add files via upload
+
+commit be739bf8e8a3743afb2073ce06e1b0b7a72b4cf5
+Author: Kimlee-cmd <85122673+Kimlee-cmd@users.noreply.github.com>
+Date:   Sat Jul 23 20:14:15 2022 +0800
+
+    Delete HomeActivity.java
+
+commit c666c66dc8f7126494df362f7901f631e30b8c95
+Author: 唐三 <89683694+Tangsan99999@users.noreply.github.com>
+Date:   Sat Jul 23 19:59:06 2022 +0800
+
+    Delete README.md
+
+commit b564372a33121b4bd51eaf30d425d65f04b209a4
+Author: 唐三 <89683694+Tangsan99999@users.noreply.github.com>
+Date:   Sat Jul 23 19:54:37 2022 +0800
+
+    Create README.md
+
+commit 5584ea1f2d6a5e7ed14914ec924ef1a13ee7a363
+Merge: 471047e 65bdaaf
+Author: 唐三 <89683694+Tangsan99999@users.noreply.github.com>
+Date:   Sat Jul 23 18:34:36 2022 +0800
+
+    Merge pull request #4 from zhanglyt/main
+    
+    在线换背景
+
+commit 65bdaaf977bd4bc90a32ddc4fdbf67a050e98617
+Author: zhanglyt <108105801+zhanglyt@users.noreply.github.com>
+Date:   Sat Jul 23 18:27:57 2022 +0800
+
+    Update fragment_model.xml
+
+commit 18f823ec0b0df0c4a1b03a54c8dedff7920fb95b
+Author: zhanglyt <108105801+zhanglyt@users.noreply.github.com>
+Date:   Sat Jul 23 18:26:38 2022 +0800
+
+    Update styles.xml
+
+commit 7354f280f1089c02e19ec827bd13b197dfd29f1c
+Author: zhanglyt <108105801+zhanglyt@users.noreply.github.com>
+Date:   Sat Jul 23 17:20:40 2022 +0800
+
+    Update ApiConfig.java
+
+commit cdbf7234a4f42e0a3cd4fa0455754e677b0c7476
+Author: zhanglyt <108105801+zhanglyt@users.noreply.github.com>
+Date:   Sat Jul 23 17:19:34 2022 +0800
+
+    Update BaseActivity.java
+
+commit 130699b8e16dd4c312ac7f59d150e834f85f71a9
+Author: zhanglyt <108105801+zhanglyt@users.noreply.github.com>
+Date:   Sat Jul 23 17:18:36 2022 +0800
+
+    Update ModelSettingFragment.java
+
+commit 471047ed7b1688128572733cd7c6635a656ffb15
+Merge: e8c12d2 7f8ca75
+Author: 唐三 <89683694+Tangsan99999@users.noreply.github.com>
+Date:   Sat Jul 23 16:21:23 2022 +0800
+
+    Merge pull request #1 from thanatos888/main
+    
+    添加type4支持
+
+commit 7f8ca752611f6afccee00e422e4b3675a65ccc6c
+Author: thanatos518 <675530973@qq.com>
+Date:   Sat Jul 23 16:11:04 2022 +0800
+
+    添加type4支持
+    修复某些资源api返回剧集链接没有名称导致不显示的问题，剧集名称不存在时则显示为第几集。
+    修复混淆导致的磁力播放闪退的问题。
+
+commit e8c12d2bf408feb129857e577803d918e613482f
+Merge: 6b71a63 befb61a
+Author: 小黄瓜 <91521358+lite-cucumber@users.noreply.github.com>
+Date:   Mon Jul 18 08:21:02 2022 +0800
+
+    Merge pull request #168 from haha459862/main
+    
+    直播bug修复
+
+commit befb61a8988d39d94180cbdb4ead5ff3155f7545
+Author: haha459862 <459862@163.com>
+Date:   Fri Jul 15 23:52:49 2022 +0800
+
+    live bug fix
+
+commit 6b71a63b2554f75ec3fbfaa0a1222073576c9b54
+Merge: 19df866 b19f45c
+Author: 小黄瓜 <91521358+lite-cucumber@users.noreply.github.com>
+Date:   Thu Jul 14 16:13:23 2022 +0800
+
+    Merge pull request #165 from CatVodTVOfficial/dev
+    
+    Add magnet support.
+
+commit b19f45c13ce7aa372fd26746d3e8b0469d484079
+Author: Cuke <>
+Date:   Thu Jul 14 16:11:58 2022 +0800
+
+    Add magnet support.
+
+commit 19df866fc78fbd7d2830bb2597a0262b172b2bac
+Merge: 9f31b69 a5c9cf7
+Author: S-DL <92350339+S-DL@users.noreply.github.com>
+Date:   Fri Jul 8 08:36:48 2022 +0800
+
+    Merge pull request #156 from haha459862/main
+    
+    修复直播列表为空闪退
+
+commit a5c9cf75fc49753d600163907c02fec8f73658d1
+Author: haha459862 <459862@163.com>
+Date:   Thu Jul 7 20:10:47 2022 +0800
+
+    live channel list empty bug fix
+
+commit 9f31b69d209880da158fcfc79d6dc16f3627719d
+Merge: ab18039 fba92e9
+Author: 小黄瓜 <91521358+lite-cucumber@users.noreply.github.com>
+Date:   Thu Jul 7 11:52:51 2022 +0800
+
+    Merge pull request #154 from haha459862/main
+    
+    修复退出直播闪退
+
+commit fba92e9067826a40568d52d618d93a113e4a02fd
+Author: haha459862 <459862@163.com>
+Date:   Thu Jul 7 10:17:36 2022 +0800
+
+    live quit bug fix
+
+commit ab180391b504e8da20286d90fddb9e425ef7c487
+Merge: 45daa84 bba0e91
+Author: 小黄瓜 <91521358+lite-cucumber@users.noreply.github.com>
+Date:   Thu Jul 7 08:38:05 2022 +0800
+
+    Merge pull request #153 from CatVodTVOfficial/dev
+    
+    Resolve
+
+commit bba0e91d1e9d71690c6aaff0a3e6d6e7cf2bdfe3
+Author: Cuke <>
+Date:   Thu Jul 7 08:37:38 2022 +0800
+
+    Resolve
+
+commit 45daa8477c7f9901cf34c7788228b59b3e7347cc
+Merge: 9e4a99d 8024e5d
+Author: 小黄瓜 <91521358+lite-cucumber@users.noreply.github.com>
+Date:   Thu Jul 7 08:28:10 2022 +0800
+
+    Merge pull request #127 from haha459862/main
+    
+    直播增加设置功能
+
+commit 8024e5d9773cd20c5a0724280bd8bd5c2b7bfa65
+Merge: ece6b83 9e4a99d
+Author: 小黄瓜 <91521358+lite-cucumber@users.noreply.github.com>
+Date:   Thu Jul 7 08:27:53 2022 +0800
+
+    Merge branch 'main' into main
+
+commit ece6b83cb89854943b32bb7bd9fa37755804e17d
+Author: haha459862 <459862@163.com>
+Date:   Wed Jul 6 22:55:34 2022 +0800
+
+    bug fix
+
+commit ad274608b0b4d7ce8a96d9c7d031fa3c6ef6e072
+Author: haha459862 <459862@163.com>
+Date:   Wed Jul 6 21:43:18 2022 +0800
+
+    live channel group password support
+
+commit 9e4a99d3e42cb2fb925587aa82d915f8ae89c8ae
+Merge: 1e99f6b c68bdd3
+Author: 小黄瓜 <91521358+lite-cucumber@users.noreply.github.com>
+Date:   Wed Jul 6 10:40:35 2022 +0800
+
+    Merge pull request #147 from CatVodTVOfficial/dev
+    
+    Add Reex player support.
+
+commit c68bdd34c9d1c58905fc4a29cb10bac608b636d4
+Author: Cuke <>
+Date:   Wed Jul 6 10:39:56 2022 +0800
+
+    Add Reex player support.
+
+commit 1e99f6b0d3e011c2dca93bc90bb45f9eac5bae2c
+Merge: eb14864 fcd7625
+Author: S-DL <92350339+S-DL@users.noreply.github.com>
+Date:   Tue Jul 5 16:43:21 2022 +0800
+
+    Merge pull request #142 from CatVodTVOfficial/dev
+    
+    Resize app banner
+
+commit fcd762589d22a80a703dacfa75953478f464a273
+Author: SDL <>
+Date:   Tue Jul 5 16:42:26 2022 +0800
+
+    resize app banner
+
+commit eb14864d2ed39c2054efafa13a38aebc7e50b149
+Merge: ba435d1 a833a04
+Author: 小黄瓜 <91521358+lite-cucumber@users.noreply.github.com>
+Date:   Tue Jul 5 14:50:01 2022 +0800
+
+    Merge pull request #138 from CatVodTVOfficial/dev
+    
+    Hide MXPlayer if not install.
+
+commit a833a046b2bb1e473af30c6aec84a9753708c107
+Author: Cuke <>
+Date:   Tue Jul 5 14:28:04 2022 +0800
+
+    Hide MXPlayer if not install.
+
+commit 72bfa622fdcddb0be66ff2127ba436b4a8e20984
+Author: haha459862 <459862@163.com>
+Date:   Tue Jul 5 13:09:28 2022 +0800
+
+    live player control modify
+
+commit ba435d1901ca0b3ffe9e358e6d12c381967c26d9
+Merge: d908313 e059699
+Author: 小黄瓜 <91521358+lite-cucumber@users.noreply.github.com>
+Date:   Tue Jul 5 12:58:15 2022 +0800
+
+    Merge pull request #137 from CatVodTVOfficial/dev
+    
+    Fix auto size padding.
+
+commit e0596997da1a48831aace8a10bb5cabef36b0a80
+Author: Cuke <>
+Date:   Tue Jul 5 12:57:12 2022 +0800
+
+    Fix auto size padding.
+
+commit d908313df1d384bd04b21b83d6ab7f3cdb4c656d
+Merge: b7c47f9 08f8056
+Author: 小黄瓜 <91521358+lite-cucumber@users.noreply.github.com>
+Date:   Tue Jul 5 12:13:27 2022 +0800
+
+    Merge pull request #135 from CatVodTVOfficial/dev
+    
+    Autosize fix. Mix parse fix. Add call mxplayer with subtitle support。
+
+commit 08f8056fbcb0febfcc2ff41aed0d3a325e29e162
+Author: Cuke <>
+Date:   Tue Jul 5 12:12:59 2022 +0800
+
+    Autosize fix. Mix parse fix. Add call mxplayer with subtitle support。
+
+commit b7c47f9434283a54a533f0c31426987a670da779
+Merge: 31486fc d0430df
+Author: S-DL <92350339+S-DL@users.noreply.github.com>
+Date:   Mon Jul 4 22:55:49 2022 +0800
+
+    Merge pull request #133 from CatVodTVOfficial/dev
+    
+    Dev
+
+commit d0430df7e5e1c4cc95fddd357f3620a9d7a7ec22
+Author: SDL <>
+Date:   Mon Jul 4 22:54:45 2022 +0800
+
+    New icon.
+
+commit dcd30f52c03046c66bed9cb02c13bd45f0b1c7c7
+Author: SDL <>
+Date:   Mon Jul 4 22:42:50 2022 +0800
+
+    Parse url proxy support.
+
+commit 14ef3bc2bc3743d55b76fbd833cf8ae9fe5f4d32
+Author: Cuke <>
+Date:   Mon Jul 4 17:40:19 2022 +0800
+
+    默认Ua改为OKHTTP
+
+commit 31486fcb0694c1ecf7e2295dc4599b3b979dee5c
+Merge: 3f56ec4 14ef3bc
+Author: 小黄瓜 <91521358+lite-cucumber@users.noreply.github.com>
+Date:   Mon Jul 4 17:37:39 2022 +0800
+
+    Merge pull request #130 from CatVodTVOfficial/dev
+    
+    Dev
+
+commit ff42ba3f49b50d876f4b68a8cbb2ddf575a15c50
+Author: Cuke <>
+Date:   Mon Jul 4 16:19:41 2022 +0800
+
+    Block webview js alert。
+
+commit 3b35bdc0318f38f24d70523e06c527ee9362cb55
+Author: haha459862 <459862@163.com>
+Date:   Sun Jul 3 23:38:53 2022 +0800
+
+    live setting support, complete
+
+commit 18c2b25cfd9cd0bda444c1bce437ab698b41d29f
+Author: haha459862 <459862@163.com>
+Date:   Sat Jul 2 22:30:47 2022 +0800
+
+    live setting support, to be continued
+
+commit 3f56ec44c1b9985259d05f40e3f9f70429fe7061
+Merge: 2534ad0 a9b13c3
+Author: DreamDSTR <108332781+DreamDSTR@users.noreply.github.com>
+Date:   Sat Jul 2 14:27:18 2022 +0800
+
+    Merge pull request #124 from CatVodTVOfficial/dev
+    
+    Dev
+
+commit a9b13c35d2e9b3c95386722da8e5df2efb83ed2a
+Author: DreamDSTR <>
+Date:   Sat Jul 2 14:26:48 2022 +0800
+
+    Fix
+
+commit 6cc4f4f989b5f79095e91769d125bf2f9794cc8f
+Author: DreamDSTR <>
+Date:   Sat Jul 2 14:21:59 2022 +0800
+
+    Fix
+
+commit 2534ad0431afd8d407fb46c195a462c46a2b40e4
+Merge: 7325aef 80e5308
+Author: DreamDSTR <108332781+DreamDSTR@users.noreply.github.com>
+Date:   Sat Jul 2 14:20:45 2022 +0800
+
+    Merge pull request #123 from CatVodTVOfficial/dev
+    
+    Fix
+
+commit 80e530860190304fc36984f7708cd7f9e5ff8d41
+Author: DreamDSTR <>
+Date:   Sat Jul 2 14:20:24 2022 +0800
+
+    Fix
+
+commit 7325aefe6d9f3af14dbc0f017db987ae872130f3
+Merge: 3d9dd3e 4a2321e
+Author: DreamDSTR <108332781+DreamDSTR@users.noreply.github.com>
+Date:   Sat Jul 2 05:46:35 2022 +0800
+
+    Merge pull request #119 from CatVodTVOfficial/dev
+    
+    Fix
+
+commit 4a2321ebd1d0ba39f5f9c9d8498020f0bc7302a0
+Author: DreamDSTR <>
+Date:   Sat Jul 2 05:46:07 2022 +0800
+
+    Fix
+
+commit 3d9dd3eccf54d0b18d5c1923c75b09538517ef8e
+Merge: ecdead2 dd3b5d0
+Author: DreamDSTR <108332781+DreamDSTR@users.noreply.github.com>
+Date:   Sat Jul 2 05:24:18 2022 +0800
+
+    Merge pull request #118 from CatVodTVOfficial/dev
+    
+    Fix
+
+commit dd3b5d05e22e9a2eb819e06bc374da7fcdd66625
+Author: DreamDSTR <>
+Date:   Sat Jul 2 05:23:59 2022 +0800
+
+    Fix
+
+commit ecdead21592615238e0016384616087a7abc2d25
+Merge: fe73bd2 ae5596c
+Author: S-DL <92350339+S-DL@users.noreply.github.com>
+Date:   Fri Jul 1 23:37:56 2022 +0800
+
+    Merge pull request #117 from CatVodTVOfficial/dev
+    
+    Dev
+
+commit ae5596c6458861b1667b829e5e75b9046ceab1b6
+Author: SDL <>
+Date:   Fri Jul 1 23:34:39 2022 +0800
+
+    首页列表源设置 搜索视图设置 补齐配置接口中的分类配置 修复片尾跳过无法从头播放问题
+
+commit ebae981bc70695d6ad1537a4e0400519488064ea
+Author: SDL <>
+Date:   Fri Jul 1 23:29:52 2022 +0800
+
+    首页列表源设置 搜索视图设置 补齐配置接口中的分类配置 修复片尾跳过无法从头播放问题
+
+commit 6887cc20215877eb06ac9904c2918791d919bfd5
+Author: SDL <>
+Date:   Fri Jul 1 16:55:59 2022 +0800
+
+    Temp commit.
+
+commit c4b8908ba2796d4e707bcd92fa2208111c9afef3
+Author: SDL <>
+Date:   Fri Jul 1 16:54:44 2022 +0800
+
+    Temp commit.
+
+commit 8c3c095810b06c37a591695fa191fff15f868d95
+Author: SDL <>
+Date:   Thu Jun 30 12:24:19 2022 +0800
+
+    优化搜索后台占用问题，新增应用备份还原
+
+commit fe73bd2cdefd9590654256a7c1090c00f49b868a
+Merge: 49731c2 8c3c095
+Author: S-DL <92350339+S-DL@users.noreply.github.com>
+Date:   Thu Jun 30 12:22:11 2022 +0800
+
+    Merge pull request #111 from CatVodTVOfficial/dev
+    
+    优化搜索后台占用问题，新增应用备份还原
+
+commit 72a43055e5654d47f558548bb03b6851713e172c
+Author: DreamDSTR <>
+Date:   Thu Jun 30 09:12:17 2022 +0800
+
+    补齐爬虫jar嗅探扩展接口调用 & BugFix.
+
+commit 49731c217933b7724a34ffba4259a3185047b055
+Merge: 60c1f2c 72a4305
+Author: DreamDSTR <108332781+DreamDSTR@users.noreply.github.com>
+Date:   Thu Jun 30 09:10:55 2022 +0800
+
+    Merge pull request #110 from CatVodTVOfficial/dev
+    
+    补齐爬虫jar嗅探扩展接口调用 & BugFix.
+
+commit 345b205667bc3809721b5b69ca1886c8e2926648
+Author: DreamDSTR <>
+Date:   Wed Jun 29 20:20:15 2022 +0800
+
+    完善解析逻辑，支持原配置格式中采集站配置json解析的格式，支持json解析ext头设置
+
+commit 60c1f2c83ba8167446c813567b8a202581a42600
+Merge: 92edc81 345b205
+Author: DreamDSTR <108332781+DreamDSTR@users.noreply.github.com>
+Date:   Wed Jun 29 20:17:51 2022 +0800
+
+    Merge pull request #107 from CatVodTVOfficial/dev
+    
+    完善解析逻辑，支持原配置格式中采集站配置json解析的格式，支持json解析ext头设置
+
+commit e7aad4c3702fa5738d49c30faf8fd1d571e71464
+Author: DreamDSTR <>
+Date:   Wed Jun 29 19:54:55 2022 +0800
+
+    字体大小统一 倍速递增量改为0.25
+
+commit 92edc818eae160adb5e24bd29c4f45f856d9f10e
+Merge: 9a486e5 e7aad4c
+Author: DreamDSTR <108332781+DreamDSTR@users.noreply.github.com>
+Date:   Wed Jun 29 19:53:18 2022 +0800
+
+    Merge pull request #106 from CatVodTVOfficial/dev
+    
+    字体大小统一 倍速递增量改为0.25
+
+commit 9a486e5b2b1099a7846743ac1333cb93f22192e4
+Merge: f3dd1c2 feb43f7
+Author: 小黄瓜 <91521358+lite-cucumber@users.noreply.github.com>
+Date:   Wed Jun 29 19:32:23 2022 +0800
+
+    Merge pull request #105 from haha459862/main
+    
+    直播源选中颜色修复
+
+commit feb43f7fb28a7ecd7c34c04d3cc43cc4ae9795a6
+Author: haha459862 <459862@163.com>
+Date:   Wed Jun 29 19:07:33 2022 +0800
+
+    live focus color bug fix
+
+commit e77f472444c5f3ce086b61853516d95526e424da
+Author: Cuke <>
+Date:   Wed Jun 29 17:40:24 2022 +0800
+
+    剧集列表页增加倒序
+
+commit f3dd1c25e823ceb9c02d0726ceee1d303bbfd425
+Merge: eb3ef3e e77f472
+Author: 小黄瓜 <91521358+lite-cucumber@users.noreply.github.com>
+Date:   Wed Jun 29 17:37:41 2022 +0800
+
+    Merge pull request #104 from CatVodTVOfficial/dev
+    
+    剧集列表页增加倒序
+
+commit bd4778063b6ca36c3773078724b95bbf276522d4
+Author: Cuke <>
+Date:   Wed Jun 29 16:31:12 2022 +0800
+
+    Add dns over https.
+
+commit eb3ef3e00dfb951ca46a70fb3250eb2f85c74293
+Merge: 706d256 bd47780
+Author: 小黄瓜 <91521358+lite-cucumber@users.noreply.github.com>
+Date:   Wed Jun 29 16:28:31 2022 +0800
+
+    Merge pull request #103 from CatVodTVOfficial/dev
+    
+    Dev
+
+commit 04408dab4b6fb6ceeebd344f769de829c42abfd3
+Author: Cuke <>
+Date:   Wed Jun 29 15:31:22 2022 +0800
+
+    调整扫码设置配置地址的方式.
+
+commit 1d7e2625f26c1499a5d9b29fcc49f197a9769159
+Author: Cuke <>
+Date:   Wed Jun 29 15:00:09 2022 +0800
+
+    Complete play activity.
+
+commit 706d25669d93ecabc97c26df3b0e2bc5e66f904d
+Merge: e22a41a 1d7e262
+Author: 小黄瓜 <91521358+lite-cucumber@users.noreply.github.com>
+Date:   Wed Jun 29 14:57:36 2022 +0800
+
+    Merge pull request #102 from CatVodTVOfficial/dev
+    
+    Complete play activity.
+
+commit 6d3a8e47f2043aa4416e755038774d93f3fa6ce5
+Author: Cuke <>
+Date:   Wed Jun 29 12:15:30 2022 +0800
+
+    完善播放器控制UI
+
+commit e22a41aefd41cab8cd3c9894a9bcfdc86fa1980f
+Merge: c9ea0f9 6d3a8e4
+Author: 小黄瓜 <91521358+lite-cucumber@users.noreply.github.com>
+Date:   Wed Jun 29 12:13:29 2022 +0800
+
+    Merge pull request #101 from CatVodTVOfficial/dev
+    
+    完善播放器控制UI
+
+commit 738ac09aa0c07ba7a5178139e959780c8bf17392
+Author: Cuke <>
+Date:   Wed Jun 29 11:23:59 2022 +0800
+
+    完善播放器控制UI
+
+commit c9ea0f9835b5af0cda2a2163222b0d975b6bc04e
+Merge: 206e2eb 738ac09
+Author: 小黄瓜 <91521358+lite-cucumber@users.noreply.github.com>
+Date:   Wed Jun 29 11:21:18 2022 +0800
+
+    Merge pull request #100 from CatVodTVOfficial/dev
+    
+    完善播放器控制UI
+
+commit fc15ba1e4a5d82634a5e02010183f52b4ec540a5
+Author: Cuke <>
+Date:   Wed Jun 29 11:20:44 2022 +0800
+
+    完善播放器控制UI
+
+commit 206e2eb92356c159dbb82917d39703fb3a973c9e
+Merge: 32fd2ae fc15ba1
+Author: 小黄瓜 <91521358+lite-cucumber@users.noreply.github.com>
+Date:   Wed Jun 29 11:19:44 2022 +0800
+
+    Merge pull request #99 from CatVodTVOfficial/dev
+    
+    Dev
+
+commit c01fbacb9e83f3007ede293adc3c595b40124c10
+Author: Cuke <>
+Date:   Wed Jun 29 09:38:17 2022 +0800
+
+    collect complete。
+
+commit 32fd2ae5ce7d725d389f9f4818012468c95c6a72
+Merge: c58d07d 438d104
+Author: 小黄瓜 <91521358+lite-cucumber@users.noreply.github.com>
+Date:   Wed Jun 29 08:41:20 2022 +0800
+
+    Merge pull request #95 from CatVodTVOfficial/dev
+    
+    Dev
+
+commit 438d104644c0f0a6c0d107eaa1e46b829ba1dab7
+Merge: 4853774 279d4db
+Author: DreamDSTR <108332781+DreamDSTR@users.noreply.github.com>
+Date:   Wed Jun 29 00:21:47 2022 +0800
+
+    Merge pull request #88 from haha459862/dev
+    
+    live bugs fixes
+
+commit c58d07dd19d292a6f229ee3944b5ebe74199a6ff
+Merge: 730de45 4853774
+Author: DreamDSTR <108332781+DreamDSTR@users.noreply.github.com>
+Date:   Wed Jun 29 00:20:47 2022 +0800
+
+    Merge pull request #92 from CatVodTVOfficial/dev
+    
+    Dev
+
+commit 4853774a17538cc2f7616fff79d7f68ef5f4089a
+Author: DreamDSTR <>
+Date:   Wed Jun 29 00:18:22 2022 +0800
+
+    Fix Bug。
+
+commit 64d2c85100e075f2ca98ef549d5e324aad6af036
+Author: DreamDSTR <>
+Date:   Wed Jun 29 00:13:56 2022 +0800
+
+    Update PlayActivity.
+
+commit 989dc84d4870bb9b4b706c65df58ba074b61610f
+Author: DreamDSTR <>
+Date:   Wed Jun 29 00:08:51 2022 +0800
+
+    Fix history miss bug.
+
+commit 2dca0b43bb4abd5fb0c08b2160feb9603f9dd07e
+Author: DreamDSTR <>
+Date:   Wed Jun 29 00:00:23 2022 +0800
+
+    Update PlayActivity.
+
+commit d0fbd2690ff765df0339f0f12c2fe6838e8f3947
+Author: DreamDSTR <>
+Date:   Tue Jun 28 23:56:56 2022 +0800
+
+    Update PlayActivity.
+
+commit 279d4dbd45ef7cfaf680869bcad084c3fd092356
+Author: haha459862 <459862@163.com>
+Date:   Tue Jun 28 22:32:25 2022 +0800
+
+    live bugs fixes
+
+commit b8018ab6631e6dd0057e823b9460587b31b22b87
+Author: DreamDSTR <>
+Date:   Tue Jun 28 17:39:02 2022 +0800
+
+    开始播放界面相关UI调整
+
+commit 5dd9798ccdaa67e2bf1e0479f932ba0513e7bc40
+Author: DreamDSTR <>
+Date:   Tue Jun 28 17:20:34 2022 +0800
+
+    开始播放界面相关UI调整
+
+commit 730de45127df1a61842927d654fd3f5af94a7aee
+Author: Cuke <>
+Date:   Tue Jun 28 12:05:13 2022 +0800
+
+    Clean。
+
+commit 0a48ba3f4776fd746e9d4bf04dce2bb897b5a714
+Author: Demo <>
+Date:   Mon Jun 27 22:53:57 2022 +0800
+
+    Fix load err.
+
+commit 074dc833ac6bd9e4518c573f733c3c960eb5a81e
+Author: Demo <>
+Date:   Mon Jun 27 22:40:22 2022 +0800
+
+    尝试优化缩略图锯齿问题
+
+commit 0ed92ad7ed65e2d5210c4ef6cfb0aa5f0cbbe981
+Author: Demo <>
+Date:   Mon Jun 27 22:30:33 2022 +0800
+
+    爬虫源获取分类增加超时逻辑
+
+commit 2970b9056a71e9e1f800cd82c5ac6619dc785abd
+Author: Demo <>
+Date:   Mon Jun 27 22:12:46 2022 +0800
+
+    清理无用代码，修改部分UI
+
+commit 1352e6777d9551b7e13fb89674d185c8713dd5ee
+Author: Demo <>
+Date:   Mon Jun 27 22:11:18 2022 +0800
+
+    清理无用代码，修改部分UI
+
+commit e3b0bb81911a1d3b2a5604877ab66d4528b6741c
+Author: SDL <>
+Date:   Mon Jun 27 17:25:20 2022 +0800
+
+    Complete push logic.
+
+commit cc27b751b526e43bf6c00e0f8a091f0c00106782
+Author: SDL <>
+Date:   Mon Jun 27 16:46:28 2022 +0800
+
+    Fix release build runtime error.
+
+commit ba2fc9e3ed55cd8cbd8bcc7b38abd44ab58ed36a
+Author: SDL <>
+Date:   Mon Jun 27 16:37:10 2022 +0800
+
+    sync
+
+commit b9b2ce103504a4fd3d21f8e84474a962190473e6
+Author: SDL <>
+Date:   Mon Jun 27 15:14:21 2022 +0800
+
+    sync
+
+commit e810604773b17fa160e826d05e6e1ce0e7081903
+Author: SDL <>
+Date:   Mon Jun 27 15:11:56 2022 +0800
+
+    sync
+
+commit aff18612a043211f437e57d08746f1f6a00da756
+Author: SDL <>
+Date:   Mon Jun 27 11:50:07 2022 +0800
+
+    full screen.
+
+commit fe31c0489fc9ddc70fe21a67c88a7a7f197b59c3
+Author: SDL <>
+Date:   Mon Jun 27 11:37:02 2022 +0800
+
+    sync
+
+commit 883808187c505e4af858a5aa8a70745df656ab79
+Author: SDL <>
+Date:   Mon Jun 27 11:36:23 2022 +0800
+
+    sync
+
+commit bc72e43c9d529a04dd90ba32aa936e1867bca95e
+Merge: 410d9aa 9489168
+Author: S-DL <92350339+S-DL@users.noreply.github.com>
+Date:   Mon Jun 27 11:14:29 2022 +0800
+
+    Merge pull request #68 from lppsuixn/main
+    
+    bug fix: load live channel from config file error
+
+commit 410d9aaaadaad1cdfd885f7134332668755f18cb
+Author: SDL <>
+Date:   Mon Jun 27 11:13:30 2022 +0800
+
+    clean up.
+
+commit 948916866a32d901f84c5aa015ad2af4b956c58c
+Author: lppsuixn <lppsuixn@gmail.com>
+Date:   Sun Jun 26 23:44:40 2022 +0800
+
+    bug fix: load live channel from config file error
+
+commit fd7be816eccd13e21477fed7bf0aab3e17b7c6cf
+Merge: 095fb71 50b64ed
+Author: Scut-Demo <108138088+Scut-Demo@users.noreply.github.com>
+Date:   Sun Jun 26 17:04:29 2022 +0800
+
+    Merge pull request #63 from ixiumu/dev
+    
+    fix live layout
+
+commit 095fb7186a9f8a01620fd0165d5a0e7fec56b17a
+Author: Demo <>
+Date:   Sun Jun 26 17:04:02 2022 +0800
+
+    Bug
+
+commit fe1455b5e8d738401f59f88b0499ebd1d2f499bc
+Author: Demo <>
+Date:   Sun Jun 26 17:00:19 2022 +0800
+
+    临时增加筛选.
+
+commit 50b64edf69044abed60a003805dbd4e8c6efb482
+Merge: 8287520 bf0a01d
+Author: Calvin Chia <ixiumu@users.noreply.github.com>
+Date:   Sun Jun 26 14:55:52 2022 +0800
+
+    Merge branch 'CatVodTVOfficial:main' into dev
+
+commit bf0a01df73ac206f9df2fca1e1508df5b45121c4
+Author: Demo <>
+Date:   Sun Jun 26 14:44:52 2022 +0800
+
+    update xwalk utils
+
+commit 8287520b8b7ce510cd1a08417e9938ba8222f248
+Merge: 2bb3e27 efa42cd
+Author: Calvin Chia <ixiumu@users.noreply.github.com>
+Date:   Sun Jun 26 14:44:18 2022 +0800
+
+    Merge branch 'CatVodTVOfficial:main' into dev
+
+commit efa42cd3c369adaecc40bda92610cc282d091d10
+Merge: ca9ffe3 623ab07
+Author: Scut-Demo <108138088+Scut-Demo@users.noreply.github.com>
+Date:   Sun Jun 26 14:39:49 2022 +0800
+
+    Merge pull request #61 from comblue/main
+    
+    修复jar加载失败时导致主界面一直转圈卡死
+
+commit 2bb3e2715cdb82e9d94522918f078f04959385ba
+Author: ixiumu <ixiumu@users.noreply.github.com>
+Date:   Sun Jun 26 14:39:20 2022 +0800
+
+    fix live layout
+
+commit 623ab07d53c8eb0732192df2bce57d23c455a484
+Author: comblue <chenzhihao_0812@163.com>
+Date:   Sun Jun 26 12:15:46 2022 +0800
+
+    修复jar加载失败时导致主界面一直转圈卡死
+
+commit ca9ffe303676cd3ccbe10f1bf243ed1be05f0a09
+Merge: bccc414 448531d
+Author: Scut-Demo <108138088+Scut-Demo@users.noreply.github.com>
+Date:   Sun Jun 26 10:41:55 2022 +0800
+
+    Merge pull request #57 from haha459862/main
+    
+    bugs fixes & proxy mode optimize
+
+commit bccc414bc4dc815260c9d1ec91e954870eef0bdb
+Author: Demo <>
+Date:   Sun Jun 26 10:39:38 2022 +0800
+
+    修复播放进度问题
+
+commit 448531dd704f3fdd8d74cd207424aa0cbdd76914
+Author: haha459862 <459862@163.com>
+Date:   Sun Jun 26 09:24:01 2022 +0800
+
+    bugs fixes & proxy mode optimize
+
+commit 8ec2c2fb18934315fb22ef5d5ae4ce540e7cf887
+Author: catvod <>
+Date:   Sat Jun 25 22:53:42 2022 +0800
+
+    TogglePlay
+
+commit 792168e63732747e9af465dfc3187123d9be3483
+Author: catvod <>
+Date:   Sat Jun 25 22:44:50 2022 +0800
+
+    升级播放器内核所需修改，顺带解决播放进度保存问题
+
+commit cf403b8420b62ab77f1c39dfef29ef2748082019
+Author: catvod <>
+Date:   Sat Jun 25 22:42:01 2022 +0800
+
+    升级IJK内核，Exo版本
+
+commit 7f45f088776f16d95620eef51b66d707aea2804d
+Merge: a706ccc d59a572
+Author: catvod <88956744+catvod@users.noreply.github.com>
+Date:   Sat Jun 25 16:23:14 2022 +0800
+
+    Merge pull request #37 from scemsjyd/main
+    
+    修复详情显示和爬虫多次被重复加载
+
+commit a706cccfe0f51ddcc3b66f0fe6358e669f0826f9
+Merge: a85ee4f a78e2e4
+Author: catvod <88956744+catvod@users.noreply.github.com>
+Date:   Sat Jun 25 15:01:32 2022 +0800
+
+    Merge pull request #47 from haha459862/main
+    
+    直播功能修改
+
+commit a78e2e4babb26d9e6cbc3dd5b89c8c79d00f9cff
+Author: haha459862 <459862@163.com>
+Date:   Sat Jun 25 13:43:49 2022 +0800
+
+    add live channel group support
+
+commit d59a572f48c12e264fe5e03ae3474fc62b4e8eee
+Merge: b7adc89 a85ee4f
+Author: Adam Jin <scemsjyd@gmail.com>
+Date:   Sat Jun 25 00:57:44 2022 +0800
+
+    Merge branch 'CatVodTVOfficial:main' into main
+
+commit b7adc899cba21c844f5d10f0f3e95d593928279d
+Author: Adam.Jin <scemsjyd@gmail.com>
+Date:   Sat Jun 25 00:52:17 2022 +0800
+
+    FIX：修复爬虫缓存异常造成多次重复加载问题
+
+commit a85ee4f5fcda86da26cf5ccf68b7c79d97f4e4af
+Author: Demo <>
+Date:   Fri Jun 24 23:15:23 2022 +0800
+
+    Bug.
+
+commit 880c516bbb83d0817a52446f72ed57df10cfe1b8
+Author: Demo <>
+Date:   Fri Jun 24 23:02:38 2022 +0800
+
+    增加配置缓存，优化切换首页的加载速度，支持spider的md5缓存
+
+commit fadb8187b62289f3256d03ea76d2322209d5ac15
+Author: Adam.Jin <scemsjyd@gmail.com>
+Date:   Fri Jun 24 19:23:53 2022 +0800
+
+    修复详情显示
+
+commit b4dfcdaba1c2b381c47a8f94c85ae09d4e34d42f
+Author: SDL <>
+Date:   Fri Jun 24 17:22:21 2022 +0800
+
+    修复移动网络无法播放问题
+
+commit bcd6f636569175fdc7ddfc0792f23d0fcb8e99ea
+Author: SDL <>
+Date:   Fri Jun 24 17:14:20 2022 +0800
+
+    搜索界面优化
+
+commit 963caf0e5e45cd21e8daea95ce5f1c28de9ddaac
+Author: SDL <>
+Date:   Fri Jun 24 17:10:24 2022 +0800
+
+    搜索界面优化
+
+commit 39c583150c968aeaaf9619721ea19bd3a31e5428
+Author: SDL <>
+Date:   Fri Jun 24 15:14:11 2022 +0800
+
+    界面微调
+
+commit 2a3593d151d15c4cd6aa6dacf7ad34149b2dd316
+Author: SDL <>
+Date:   Fri Jun 24 14:04:56 2022 +0800
+
+    首页操作微调.
+
+commit 53cacf2d59f21825821c53600dd4028784ae4b41
+Author: SDL <>
+Date:   Fri Jun 24 11:44:25 2022 +0800
+
+    manual.
+
+commit 982036aa6ae41bd0fc0900669bdba00b02a775c1
+Merge: 07758fa 96d7a9f
+Author: S-DL <92350339+S-DL@users.noreply.github.com>
+Date:   Fri Jun 24 11:36:55 2022 +0800
+
+    Merge pull request #11 from o0HalfLife0o/main
+    
+    replace jcenter with mavenCentral
+
+commit 07758faa6f313d9dce72dcf1ab7861dd75bedd7e
+Author: Cuke <>
+Date:   Fri Jun 24 11:36:56 2022 +0800
+
+    UI... orz。
+
+commit 96d7a9fcf10a6fe323bfd59e15b6b6492e23f5be
+Author: HalfLife <pigoig@gmail.com>
+Date:   Fri Jun 24 11:08:11 2022 +0800
+
+    replace jcenter with mavenCentral
+
+commit 06dc56c1aa4bfef735c97f1e724869aa9587d98e
+Author: Cuke <>
+Date:   Fri Jun 24 10:31:37 2022 +0800
+
+    增加本地协议clan支持
+
+commit 7916f4f88745f1550e227d89121681ab401c88b8
+Author: Cuke <>
+Date:   Fri Jun 24 10:31:02 2022 +0800
+
+    增加本地协议clan支持
+
+commit 13c8095f856c0562244e524069034fc42eea30a5
+Author: SDL <>
+Date:   Thu Jun 23 23:59:28 2022 +0800
+
+    修复release版本jar加载失败问题
+
+commit 049f1a987cc085796b44ebcdd4139f65d7d01748
+Author: SDL <>
+Date:   Thu Jun 23 23:34:51 2022 +0800
+
+    补齐Json聚合和Json扩展
+
+commit 1966d2be337c01bb34813f2cf0c78a304fc57d15
+Merge: a9a33ba e916efa
+Author: 小黄瓜 <91521358+lite-cucumber@users.noreply.github.com>
+Date:   Thu Jun 23 21:50:37 2022 +0800
+
+    Merge pull request #2 from o0HalfLife0o/main
+    
+    test build with github actions
+
+commit e916efa7ef0d14b2c5659d4e878a59bd9e4179c9
+Author: HalfLife <pigoig@gmail.com>
+Date:   Thu Jun 23 19:29:16 2022 +0800
+
+    test build with github actions
+
+commit a9a33bad0b02461e1e96e180bf9214818e30c298
+Author: Cuke <>
+Date:   Thu Jun 23 17:31:23 2022 +0800
+
+    keep safe
+
+commit c6ee7d742982742c57ee026e9c9f83fac5b89daf
+Author: Cuke <>
+Date:   Thu Jun 23 17:24:44 2022 +0800
+
+    playContent 接口补齐 json 解析支持 已测试XB XP SP
+
+commit 608bc24c5b72460603583c3a9b5446eec91a6092
+Author: Cuke <>
+Date:   Thu Jun 23 16:03:23 2022 +0800
+
+    直播代理 OK
+
+commit c17f657b58e06f46c0ec60e0fded7e5628946059
+Author: SDL <>
+Date:   Thu Jun 23 15:03:11 2022 +0800
+
+    自定义Jar支持 初步功能已实现 还查playContent接口
+
+commit 675f5a7ea5f151ccfe98098cf340c6c9ad52554c
+Author: Cuke <>
+Date:   Thu Jun 23 12:42:44 2022 +0800
+
+    配置 兼容
+
+commit 00151dd3eed08df4585d3cdadfabdb3ef02ec4c8
+Author: Cuke <>
+Date:   Thu Jun 23 12:37:49 2022 +0800
+
+    配置 兼容
+
+commit a78bdcc41f80f06924284f933c2a9b2f47662fe1
+Author: Cuke <>
+Date:   Thu Jun 23 10:34:15 2022 +0800
+
+    整理旧工程代码
+
+commit 9bd549f38a7653d431f3d9abbb61cda8447478d4
+Author: 小黄瓜 <91521358+lite-cucumber@users.noreply.github.com>
+Date:   Thu Jun 23 08:57:16 2022 +0800
+
+    Create LICENSE
